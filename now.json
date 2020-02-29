@@ -29,6 +29,10 @@
     {
       "src": "/(.*)",
       "dest": "client/index.html"
+    },
+    {
+      "src": "/manifest.json",
+      "dest": "client/manifest.json"
     }
   ]
 }
