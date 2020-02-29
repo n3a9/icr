@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "name": "icr",
+  "alias": "icr.now.sh",
+  "builds": [
+    {
+      "src": "client/package.json",
+      "use": "@now/static-build",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/static/(.*)",
+      "headers": {
+        "cache-control": "s-maxage=31536000,immutable"
+      },
+      "dest": "client/static/$1"
+    },
+    {
+      "src": "/client/src/service-worker.js",
+      "headers": {
+        "cache-control": "s-maxage=0"
+      },
+      "dest": "client/service-worker.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "client/index.html"
+    }
+  ]
+}
