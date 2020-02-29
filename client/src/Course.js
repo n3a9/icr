@@ -1,10 +1,4 @@
-import React, { useState, useCallback, useEffect } from "react";
-import {
-  Route,
-  BrowserRouter as Router,
-  Switch,
-  Redirect
-} from "react-router-dom";
+import React from "react";
 
 const Course = props => {
   return (

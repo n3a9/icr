@@ -1,11 +1,4 @@
 import React from "react";
-import {
-  Route,
-  BrowserRouter as Router,
-  Switch,
-  Redirect
-} from "react-router-dom";
-
 import Search from "./Search";
 
 import "antd/dist/antd.css";
