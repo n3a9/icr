@@ -15,7 +15,8 @@ function App() {
       <Router>
         <Switch>
           <Route path="/" exact component={Home} />
-          <Route path="/courses/:id" render={props => <Course {...props} />} />
+          {/* <Route path="/course/:name" render={props => <Course name="hello" />} /> */}
+          <Route path="/course/:id" component={Course} />
           {/* <Route component={NotFound} /> */}
         </Switch>
       </Router>
