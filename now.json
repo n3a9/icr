@@ -32,11 +32,11 @@
     },
     {
       "src": "/manifest.json",
-      "dest": "client/manifest.json"
+      "dest": "client/static/manifest.json"
     },
     {
       "src": "/favicon.ico",
-      "dest": "client/favicon.ico"
+      "dest": "client/static/favicon.ico"
     }
   ]
 }
