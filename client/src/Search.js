@@ -19,7 +19,7 @@ const Search = () => {
 
     setCourses(
       Array.from(courseNames).map(course => (
-        <Option key={course} value={course}>
+        <Option key={course} value={course.replace(/\s+/g, "")}>
           {course}
         </Option>
       ))

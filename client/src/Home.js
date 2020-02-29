@@ -7,7 +7,6 @@ import {
 } from "react-router-dom";
 
 import Search from "./Search";
-import Course from "./Course";
 
 import "antd/dist/antd.css";
 import "./css/App.css";

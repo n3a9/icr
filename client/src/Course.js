@@ -7,7 +7,11 @@ import {
 } from "react-router-dom";
 
 const Course = props => {
-  return <p>{props.match.params.id}</p>;
+  return (
+    <header className="header">
+      <p>{props.match.params.name.replace(/([0-9])/, " $1")}</p>
+    </header>
+  );
 };
 
 export default Course;
