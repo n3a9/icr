@@ -2,6 +2,7 @@ import React from "react";
 import "antd/dist/antd.css";
 import "./css/App.css";
 import Search from "./Search";
+import Course from "./Course";
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       <header className="header">
         <p>Illinois Course Review</p>
       </header>
-      <Search />
+      <Course name="hello2" />
+      {/* <Search /> */}
     </div>
   );
 }
