@@ -21,3 +21,8 @@ body {
   font-size: calc(10px + 2vmin);
   padding-top: 2em;
 }
+
+.description {
+  margin: auto;
+  max-width: 750px;
+}

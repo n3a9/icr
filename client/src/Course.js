@@ -1,10 +1,31 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import courseJSON from "./data/courses.json";
 
 const Course = props => {
+  const [courseTitle, setCourseTitle] = useState("");
+  const [courseName, setCourseName] = useState("");
+  const [courseDescription, setCourseDescription] = useState("");
+
+  useEffect(() => {
+    setCourseTitle(props.match.params.name.replace(/([0-9])/, " $1"));
+
+    for (let course of courseJSON) {
+      if (course.title === courseTitle) {
+        setCourseName(course.name);
+        setCourseDescription(course.description);
+        break;
+      }
+    }
+  });
+
   return (
-    <header className="header">
-      <p>{props.match.params.name.replace(/([0-9])/, " $1")}</p>
-    </header>
+    <>
+      <header className="header">
+        <h4>{courseName}</h4>
+        <p>{courseTitle}</p>
+      </header>
+      <p className="description">{courseDescription}</p>
+    </>
   );
 };
 
