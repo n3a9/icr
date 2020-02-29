@@ -7,8 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>icr!</p>
-        <Search />
       </header>
+      <Search />
     </div>
   );
 }

@@ -39,7 +39,7 @@ const Search = () => {
 
   return (
     <AutoComplete
-      className="search"
+      className="searchbar"
       dataSource={courses}
       placeholder="Search for a Course"
       filterOption={filter}
