@@ -32,7 +32,7 @@
     },
     {
       "src": "/manifest.json",
-      "dest": "client/static/manifest.json"
+      "dest": "client/manifest.json"
     },
     { "src": "^/favicon.ico$", "dest": "/favicon.ico" }
   ]
