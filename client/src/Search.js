@@ -11,16 +11,10 @@ const Search = () => {
   const [courses, setCourses] = useState([]);
 
   const parseCourses = useCallback(() => {
-    let courseNames = new Set();
-
-    courseJSON.map(course =>
-      courseNames.add(`${course.Subject} ${course.Number}`)
-    );
-
     setCourses(
-      Array.from(courseNames).map(course => (
-        <Option key={course} value={course.replace(/\s+/g, "")}>
-          {course}
+      courseJSON.map(course => (
+        <Option key={course.title} value={course.title.replace(/\s+/g, "")}>
+          {course.title}
         </Option>
       ))
     );
