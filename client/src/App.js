@@ -1,18 +1,25 @@
 import React from "react";
-import "antd/dist/antd.css";
-import "./css/App.css";
-import Search from "./Search";
+import {
+  Route,
+  BrowserRouter as Router,
+  Switch,
+  Redirect
+} from "react-router-dom";
+
+import Home from "./Home";
 import Course from "./Course";
 
 function App() {
   return (
-    <div className="App">
-      <header className="header">
-        <p>Illinois Course Review</p>
-      </header>
-      <Course name="hello2" />
-      {/* <Search /> */}
-    </div>
+    <>
+      <Router>
+        <Switch>
+          <Route path="/" exact component={Home} />
+          <Route path="/courses/:id" render={props => <Course {...props} />} />
+          {/* <Route component={NotFound} /> */}
+        </Switch>
+      </Router>
+    </>
   );
 }
 
