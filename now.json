@@ -34,9 +34,6 @@
       "src": "/manifest.json",
       "dest": "client/static/manifest.json"
     },
-    {
-      "src": "/favicon.ico",
-      "dest": "client/favicon.ico"
-    }
+    { "src": "^/favicon.ico$", "dest": "/favicon.ico" }
   ]
 }
