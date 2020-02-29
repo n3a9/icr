@@ -1,6 +1,7 @@
 import React, { useState, useCallback, useEffect } from "react";
 import { AutoComplete } from "antd";
 import courseJSON from "./data/courses.json";
+import "./css/Search.css";
 
 const { Option } = AutoComplete;
 
