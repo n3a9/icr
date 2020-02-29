@@ -22,6 +22,10 @@ body {
   padding-top: 2em;
 }
 
+.header p {
+  font-size: calc(8px + 2vmin);
+}
+
 .description {
   margin: auto;
   max-width: 750px;
