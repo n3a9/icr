@@ -1,11 +1,13 @@
 import React, { useState, useCallback, useEffect } from "react";
 import { AutoComplete } from "antd";
+import { useHistory } from "react-router-dom";
 import courseJSON from "./data/courses.json";
 import "./css/Search.css";
 
 const { Option } = AutoComplete;
 
 const Search = () => {
+  const history = useHistory();
   const [courses, setCourses] = useState([]);
 
   const parseCourses = useCallback(() => {
@@ -17,7 +19,7 @@ const Search = () => {
 
     setCourses(
       Array.from(courseNames).map(course => (
-        <Option key={course} value={course}>
+        <Option key={course} value={course.replace(/\s+/g, "")}>
           {course}
         </Option>
       ))
@@ -34,7 +36,12 @@ const Search = () => {
     []
   );
 
-  const onSearchSelect = useCallback(console.log("Selected!"));
+  const onSearchSelect = useCallback(
+    value => {
+      history.push(`/course/${value}`);
+    },
+    [history]
+  );
 
   useEffect(parseCourses, []);
 
