@@ -16,7 +16,7 @@ const Course = props => {
         break;
       }
     }
-  });
+  }, [props.match.params.name, courseTitle]);
 
   return (
     <>
