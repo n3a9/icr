@@ -25,4 +25,35 @@ router.get(
   })
 );
 
+router.post(
+  "/",
+  errorWrap(async (req, res) => {
+    const newCourse = new Course(req.body);
+    await newCourse.save();
+    res.status(201).json({
+      code: 201,
+      message: `Successfully created new course ${newCourse.id}`,
+      success: true,
+      result: newCourse
+    });
+  })
+);
+
+router.put(
+  "/:id",
+  errorWrap(async (req, res) => {
+    const { id } = req.params;
+    const updatedCourse = await Course.findByIdAndUpdate(id, req.body, {
+      new: true,
+      runValidators: true
+    });
+    res.json({
+      code: 200,
+      message: `Successfully updated course ${id}`,
+      success: true,
+      result: updatedCourse
+    });
+  })
+);
+
 module.exports = router;
