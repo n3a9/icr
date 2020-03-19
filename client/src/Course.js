@@ -21,7 +21,7 @@ const Course = props => {
       }
     }, parse);
     setCourseDescription(parse);
-  }, [props.match.params.name, courseTitle]);
+  }, [title, course.name, course.description]);
 
   return (
     <>
