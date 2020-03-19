@@ -12,7 +12,17 @@ const Course = props => {
     for (let course of courseJSON) {
       if (course.title === courseTitle) {
         setCourseName(course.name);
-        setCourseDescription(course.description);
+        let parse = course.description.split(/([A-Z]\w+\s\d+)/g);
+        parse.forEach((w, i) => {
+          if (/([A-Z]\w+\s\d+)/g.test(w)) {
+            parse[i] = (
+              <a href={`https://icr.now.sh/course/${w.replace(/\s/g, "")}`}>
+                {w}
+              </a>
+            );
+          }
+        }, parse);
+        setCourseDescription(parse);
         break;
       }
     }
