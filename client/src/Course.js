@@ -6,26 +6,21 @@ const Course = props => {
   const [courseName, setCourseName] = useState("");
   const [courseDescription, setCourseDescription] = useState("");
 
-  useEffect(() => {
-    setCourseTitle(props.match.params.name.replace(/([0-9])/, " $1"));
+  const title = props.match.params.name.replace(/([0-9])/, " $1");
+  const course = courseJSON.find(course => course.title === title);
 
-    for (let course of courseJSON) {
-      if (course.title === courseTitle) {
-        setCourseName(course.name);
-        let parse = course.description.split(/([A-Z]\w+\s\d+)/g);
-        parse.forEach((w, i) => {
-          if (/([A-Z]\w+\s\d+)/g.test(w)) {
-            parse[i] = (
-              <a href={`https://icr.now.sh/course/${w.replace(/\s/g, "")}`}>
-                {w}
-              </a>
-            );
-          }
-        }, parse);
-        setCourseDescription(parse);
-        break;
+  useEffect(() => {
+    setCourseTitle(title);
+    setCourseName(course.name);
+    let parse = course.description.split(/([A-Z]\w+\s\d+)/g);
+    parse.forEach((w, i) => {
+      if (/([A-Z]\w+\s\d+)/g.test(w)) {
+        parse[i] = (
+          <a href={`https://icr.now.sh/course/${w.replace(/\s/g, "")}`}>{w}</a>
+        );
       }
-    }
+    }, parse);
+    setCourseDescription(parse);
   }, [props.match.params.name, courseTitle]);
 
   return (
