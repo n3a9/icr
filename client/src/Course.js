@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import ReviewForm from "./components/ReviewForm";
+
 import courseJSON from "./data/courses.json";
 
 const Course = props => {
@@ -30,6 +32,7 @@ const Course = props => {
         <p>{courseTitle}</p>
       </header>
       <p className="description">{courseDescription}</p>
+      <ReviewForm />
     </>
   );
 };
