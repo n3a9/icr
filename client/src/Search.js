@@ -14,7 +14,7 @@ const Search = () => {
     setCourses(
       courseJSON.map(course => (
         <Option key={course.title} value={course.title.replace(/\s+/g, "")}>
-          {course.title}
+          {`${course.title}: ${course.name}`}
         </Option>
       ))
     );
