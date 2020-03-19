@@ -1,12 +1,9 @@
 import React from "react";
-import {
-  Form,
-  Input,
-  Select,
-  InputNumber,
-} from "antd";
+import { Form, Input, Select, InputNumber } from "antd";
 
-const ReviewForm = () => {
+const ReviewForm = props => {
+  const { instructors } = props;
+
   const layout = {
     labelCol: {
       span: 4
@@ -32,9 +29,15 @@ const ReviewForm = () => {
       <Form.Item name={["review", "title"]} label="Title">
         <Input />
       </Form.Item>
-      <Form.Item name={["review", "instructor"]} label="Instructor">
-        <Input />
-      </Form.Item>
+      {instructors[0] !== "" && (
+        <Form.Item name={["review", "instructor"]} label="Instructor">
+          <Select>
+            {instructors.map(i => (
+              <Select.Option value={i}>{i}</Select.Option>
+            ))}
+          </Select>
+        </Form.Item>
+      )}
       <Form.Item name={["review", "description"]} label="Description">
         <Input.TextArea />
       </Form.Item>
