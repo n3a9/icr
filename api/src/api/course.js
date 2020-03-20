@@ -7,7 +7,7 @@ router.get(
   "/:title",
   errorWrap(async (req, res) => {
     const { title } = req.params;
-    const course = await Course.find(title);
+    const course = await Course.find({ "title": title });
     if (course === null) {
       res.status(400).json({
         code: 400,
