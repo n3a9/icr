@@ -49,6 +49,6 @@ export const addReview = (title, review) => {
     return addCourse(newCourse);
   } else {
     course.reviews.append(review);
-    return editCourse(course.id, course);
+    return editCourse(title, course);
   }
 };
