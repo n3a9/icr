@@ -78,7 +78,7 @@ const ReviewForm = props => {
         </Form.Item>
       )}
       <Form.Item
-        name={["review", "description"]}
+        name={["review", "body"]}
         label="Description"
         rules={[
           {
