@@ -4,21 +4,21 @@ const { errorWrap } = require("../middleware");
 const Course = require("../models/course");
 
 router.get(
-  "/:courseTitle",
+  "/:title",
   errorWrap(async (req, res) => {
-    const { courseTitle } = req.params;
-    const course = await Course.find({ title: { courseTitle } });
+    const { title } = req.params;
+    const course = await Course.find(title);
     if (course === null) {
       res.status(400).json({
         code: 400,
-        message: `Cannot find course ${courseTitle}`,
+        message: `Cannot find course ${title}`,
         success: false,
         result: null
       });
     }
     res.json({
       code: 200,
-      message: `Successfully found course ${courseTitle}`,
+      message: `Successfully found course ${title}`,
       success: true,
       result: course
     });
