@@ -4,7 +4,6 @@ const axios = require("axios");
 
 const instance = axios.create({
   baseURL: "https://icr.now.sh/api"
-  // baseURL: "localhost:9000/api"
 });
 
 export const getCourseByTitle = title => {
@@ -41,6 +40,7 @@ export const editCourse = (title, course) => {
 
 export const addReview = async (title, review) => {
   let course = await getCourseByTitle(title);
+  console.log(course);
   if (course) {
     course.reviews.append(review);
     return editCourse(title, course);
