@@ -40,16 +40,20 @@ router.post(
 );
 
 router.put(
-  "/:id",
+  "/:title",
   errorWrap(async (req, res) => {
-    const { id } = req.params;
-    const updatedCourse = await Course.findByIdAndUpdate(id, req.body, {
-      new: true,
-      runValidators: true
-    });
+    const { title } = req.params;
+    const updatedCourse = await Course.findOneAndUpdate(
+      { "title": title },
+      req.body,
+      {
+        new: true,
+        runValidators: true
+      }
+    );
     res.json({
       code: 200,
-      message: `Successfully updated course ${id}`,
+      message: `Successfully updated course ${title}`,
       success: true,
       result: updatedCourse
     });

@@ -37,3 +37,18 @@ export const editCourse = (id, course) => {
     }
   );
 };
+
+export const addReview = (title, review) => {
+  let course = getCourseByTitle(title);
+  if (course === null) {
+    let newCourse = {
+      title: title,
+      reviews: [review],
+      rating: review.rating
+    };
+    return addCourse(newCourse);
+  } else {
+    course.reviews.append(review);
+    return editCourse(course.id, course);
+  }
+};
