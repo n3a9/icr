@@ -1,15 +1,16 @@
 import React from "react";
 import { Form, Input, Select, InputNumber } from "antd";
+import "../css/ReviewForm.css";
 
 const ReviewForm = props => {
   const { instructors } = props;
 
   const layout = {
     labelCol: {
-      span: 4
+      span: 6
     },
     wrapperCol: {
-      span: 8
+      span: 12
     }
   };
 
@@ -25,7 +26,12 @@ const ReviewForm = props => {
   };
 
   return (
-    <Form {...layout} size={"middle"} validateMessages={validateMessages}>
+    <Form
+      {...layout}
+      size={"middle"}
+      validateMessages={validateMessages}
+      className="reviewForm"
+    >
       <Form.Item name={["review", "title"]} label="Title">
         <Input />
       </Form.Item>
