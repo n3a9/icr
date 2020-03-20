@@ -6,8 +6,8 @@ const instance = axios.create({
   baseURL: "https://icr.now.sh/api"
 });
 
-export const getCourseByID = id => {
-  const requestExtension = `/courses/${id}`;
+export const getCourseByTitle = title => {
+  const requestExtension = `/courses/${title}`;
   return instance.get(requestExtension).then(
     res => res.data,
     err => {
@@ -17,7 +17,7 @@ export const getCourseByID = id => {
   );
 };
 
-export const addResource = course => {
+export const addCourse = course => {
   return instance.post("/courses", course).then(
     res => res.data,
     err => {
@@ -27,7 +27,7 @@ export const addResource = course => {
   );
 };
 
-export const editResource = (id, course) => {
+export const editCourse = (id, course) => {
   const requestExtension = `/courses/${id}`;
   return instance.put(requestExtension, course).then(
     res => res.data,
@@ -36,4 +36,19 @@ export const editResource = (id, course) => {
       return null;
     }
   );
+};
+
+export const addReview = (title, review) => {
+  let course = getCourseByTitle(title);
+  if (course === null) {
+    let newCourse = {
+      title: title,
+      reviews: [review],
+      rating: review.rating
+    };
+    return addCourse(newCourse);
+  } else {
+    course.reviews.append(review);
+    return editCourse(title, course);
+  }
 };

@@ -1,8 +1,8 @@
 import React, { useState, useCallback, useEffect } from "react";
 import { AutoComplete } from "antd";
 import { useHistory } from "react-router-dom";
-import courseJSON from "./data/courses.json";
-import "./css/Search.css";
+import courseJSON from "../data/courses.json";
+import "../css/Search.css";
 
 const { Option } = AutoComplete;
 

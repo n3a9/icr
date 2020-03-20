@@ -5,7 +5,7 @@ const Review = new mongoose.Schema({
   body: { type: String, required: true },
   rating: { type: Number, required: true },
   difficulty: {type: Number, required: true },
-  instructor: { type: String, required: true },
+  instructor: { type: String },
   grade: { type: String }
 });
 

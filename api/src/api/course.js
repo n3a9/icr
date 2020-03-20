@@ -4,21 +4,21 @@ const { errorWrap } = require("../middleware");
 const Course = require("../models/course");
 
 router.get(
-  "/:id",
+  "/:title",
   errorWrap(async (req, res) => {
-    const { id } = req.params;
-    const course = await Course.findById(id);
+    const { title } = req.params;
+    const course = await Course.find({ "title": title });
     if (course === null) {
       res.status(400).json({
         code: 400,
-        message: `Cannot find course ${id}`,
+        message: `Cannot find course ${title}`,
         success: false,
         result: null
       });
     }
     res.json({
       code: 200,
-      message: `Successfully found course ${id}`,
+      message: `Successfully found course ${title}`,
       success: true,
       result: course
     });
@@ -40,16 +40,20 @@ router.post(
 );
 
 router.put(
-  "/:id",
+  "/:title",
   errorWrap(async (req, res) => {
-    const { id } = req.params;
-    const updatedCourse = await Course.findByIdAndUpdate(id, req.body, {
-      new: true,
-      runValidators: true
-    });
+    const { title } = req.params;
+    const updatedCourse = await Course.findOneAndUpdate(
+      { "title": title },
+      req.body,
+      {
+        new: true,
+        runValidators: true
+      }
+    );
     res.json({
       code: 200,
-      message: `Successfully updated course ${id}`,
+      message: `Successfully updated course ${title}`,
       success: true,
       result: updatedCourse
     });
