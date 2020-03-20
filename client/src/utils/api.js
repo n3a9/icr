@@ -41,7 +41,8 @@ export const editCourse = (title, course) => {
 export const addReview = async (title, review) => {
   let course = await getCourseByTitle(title);
   if (course) {
-    course.reviews.append(review);
+    course = course.result;
+    course.reviews.push(review);
     return editCourse(title, course);
   } else {
     let newCourse = {

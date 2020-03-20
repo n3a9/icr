@@ -35,7 +35,6 @@ const ReviewForm = props => {
   const { title, instructors } = props;
 
   const onFinish = async data => {
-    console.log("Got values:", data);
     const reviewAdded = await addReview(title, data.review);
   };
 
