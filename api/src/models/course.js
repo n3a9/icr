@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const Course = new mongoose.Schema({
   title: { type: String, required: true },
-  reviews: { type: [mongoose.Schema.Types.ObjectId], default: [] },
+  reviews: { type: [Review], default: [] },
   rating: { type: Number, required: true }
 });
 
