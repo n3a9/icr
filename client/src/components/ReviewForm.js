@@ -1,5 +1,7 @@
 import React from "react";
 import { Form, Button, Input, Select, InputNumber } from "antd";
+
+import { addCourse } from "../utils/api";
 import "../css/ReviewForm.css";
 
 const layout = {
@@ -32,8 +34,9 @@ const validateMessages = {
 const ReviewForm = props => {
   const { instructors } = props;
 
-  const onFinish = values => {
-    console.log("Success:", values);
+  const onFinish = async course => {
+    console.log("Success:", course);
+    const courseCreated = await addCourse(course);
   };
 
   return (
