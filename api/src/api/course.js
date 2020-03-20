@@ -8,7 +8,7 @@ router.get(
   errorWrap(async (req, res) => {
     const { title } = req.params;
     const course = await Course.find({ "title": title });
-    if (course === null) {
+    if (course === []) {
       res.status(400).json({
         code: 400,
         message: `Cannot find course ${title}`,

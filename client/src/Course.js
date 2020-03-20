@@ -32,7 +32,7 @@ const Course = props => {
         <p>{courseTitle}</p>
       </header>
       <p className="description">{courseDescription}</p>
-      <ReviewForm instructors={course.instructors} />
+      <ReviewForm title={courseTitle} instructors={course.instructors} />
     </>
   );
 };
