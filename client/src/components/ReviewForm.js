@@ -1,28 +1,39 @@
 import React from "react";
-import { Form, Input, Select, InputNumber } from "antd";
+import { Form, Button, Input, Select, InputNumber } from "antd";
 import "../css/ReviewForm.css";
+
+const layout = {
+  labelCol: {
+    span: 6
+  },
+  wrapperCol: {
+    span: 12
+  }
+};
+
+const tailLayout = {
+  wrapperCol: {
+    offset: 6,
+    span: 12
+  }
+};
+
+const validateMessages = {
+  required: "This field is required!",
+  types: {
+    email: "Not a valid email!",
+    number: "Not a valid number!"
+  },
+  number: {
+    range: "Must be between ${min} and ${max}"
+  }
+};
 
 const ReviewForm = props => {
   const { instructors } = props;
 
-  const layout = {
-    labelCol: {
-      span: 6
-    },
-    wrapperCol: {
-      span: 12
-    }
-  };
-
-  const validateMessages = {
-    required: "This field is required!",
-    types: {
-      email: "Not a valid email!",
-      number: "Not a valid number!"
-    },
-    number: {
-      range: "Must be between ${min} and ${max}"
-    }
+  const onFinish = values => {
+    console.log("Success:", values);
   };
 
   return (
@@ -30,13 +41,32 @@ const ReviewForm = props => {
       {...layout}
       size={"middle"}
       validateMessages={validateMessages}
+      onFinish={onFinish}
       className="reviewForm"
     >
-      <Form.Item name={["review", "title"]} label="Title">
+      <Form.Item
+        name={["review", "title"]}
+        label="Title"
+        rules={[
+          {
+            required: true,
+            message: "Please add a review title!"
+          }
+        ]}
+      >
         <Input />
       </Form.Item>
       {instructors[0] !== "" && (
-        <Form.Item name={["review", "instructor"]} label="Instructor">
+        <Form.Item
+          name={["review", "instructor"]}
+          label="Instructor"
+          rules={[
+            {
+              required: true,
+              message: "Please select an instructor!"
+            }
+          ]}
+        >
           <Select>
             {instructors.map(i => (
               <Select.Option value={i}>{i}</Select.Option>
@@ -44,7 +74,16 @@ const ReviewForm = props => {
           </Select>
         </Form.Item>
       )}
-      <Form.Item name={["review", "description"]} label="Description">
+      <Form.Item
+        name={["review", "description"]}
+        label="Description"
+        rules={[
+          {
+            required: true,
+            message: "Please add a review!"
+          }
+        ]}
+      >
         <Input.TextArea />
       </Form.Item>
       <Form.Item
@@ -52,6 +91,7 @@ const ReviewForm = props => {
         label="Rating"
         rules={[
           {
+            required: true,
             type: "number",
             min: 0,
             max: 5
@@ -65,6 +105,7 @@ const ReviewForm = props => {
         label="Difficulty"
         rules={[
           {
+            required: true,
             type: "number",
             min: 0,
             max: 5
@@ -73,7 +114,16 @@ const ReviewForm = props => {
       >
         <InputNumber />
       </Form.Item>
-      <Form.Item name={["review", "grade"]} label="Grade">
+      <Form.Item
+        name={["review", "grade"]}
+        label="Grade"
+        rules={[
+          {
+            required: true,
+            message: "Please add a grade!"
+          }
+        ]}
+      >
         <Select>
           <Select.Option value="A+">A+</Select.Option>
           <Select.Option value="A">A</Select.Option>
@@ -89,6 +139,11 @@ const ReviewForm = props => {
           <Select.Option value="D-">D-</Select.Option>
           <Select.Option value="F">F</Select.Option>
         </Select>
+      </Form.Item>
+      <Form.Item {...tailLayout}>
+        <Button type="primary" htmlType="submit">
+          Submit
+        </Button>
       </Form.Item>
     </Form>
   );
