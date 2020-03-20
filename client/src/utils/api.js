@@ -3,8 +3,8 @@
 const axios = require("axios");
 
 const instance = axios.create({
-  // baseURL: "https://icr.now.sh/api"
-  baseURL: "localhost:9000/api"
+  baseURL: "https://icr.now.sh/api"
+  // baseURL: "localhost:9000/api"
 });
 
 export const getCourseByTitle = title => {
