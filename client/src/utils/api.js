@@ -40,15 +40,14 @@ export const editCourse = (title, course) => {
 
 export const addReview = async (title, review) => {
   let course = await getCourseByTitle(title);
-  console.log(course);
   if (course) {
     course.reviews.append(review);
     return editCourse(title, course);
   } else {
     let newCourse = {
-      title: title,
-      reviews: [review],
-      rating: review.rating
+      "title": title,
+      "reviews": [review],
+      "rating": review.rating
     };
     return addCourse(newCourse);
   }

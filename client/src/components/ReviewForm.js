@@ -34,9 +34,9 @@ const validateMessages = {
 const ReviewForm = props => {
   const { title, instructors } = props;
 
-  const onFinish = async review => {
-    console.log("Got values:", review);
-    const reviewAdded = await addReview(title, review);
+  const onFinish = async data => {
+    console.log("Got values:", data);
+    const reviewAdded = await addReview(title, data.review);
   };
 
   return (
