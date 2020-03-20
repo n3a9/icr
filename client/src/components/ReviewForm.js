@@ -32,11 +32,11 @@ const validateMessages = {
 };
 
 const ReviewForm = props => {
-  const { instructors } = props;
+  const { title, instructors } = props;
 
   const onFinish = async review => {
     console.log("Got values:", review);
-    const reviewAdded = await addReview(review);
+    const reviewAdded = await addReview(title, review);
   };
 
   return (
