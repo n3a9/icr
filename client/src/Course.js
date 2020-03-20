@@ -32,7 +32,10 @@ const Course = props => {
         <p>{courseTitle}</p>
       </header>
       <p className="description">{courseDescription}</p>
-      <ReviewForm title={courseTitle} instructors={course.instructors} />
+      <ReviewForm
+        title={props.match.params.name}
+        instructors={course.instructors}
+      />
     </>
   );
 };

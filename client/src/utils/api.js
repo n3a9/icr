@@ -7,7 +7,7 @@ const instance = axios.create({
 });
 
 export const getCourseByTitle = title => {
-  const requestExtension = `/courses/${title.replace(/\s/g, "")}`;
+  const requestExtension = `/courses/${title}`;
   return instance.get(requestExtension).then(
     res => res.data,
     err => {
@@ -28,7 +28,7 @@ export const addCourse = course => {
 };
 
 export const editCourse = (title, course) => {
-  const requestExtension = `/courses/${title.replace(/\s/g, "")}`;
+  const requestExtension = `/courses/${title}`;
   return instance.put(requestExtension, course).then(
     res => res.data,
     err => {
