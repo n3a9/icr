@@ -20,7 +20,7 @@ router.get(
       code: 200,
       message: `Successfully found course ${title}`,
       success: true,
-      result: course
+      result: courses[0]
     });
   })
 );
