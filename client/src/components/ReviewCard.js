@@ -11,7 +11,7 @@ const ReviewCard = props => {
     <Card size="small" title={review.title} className="reviewCard">
       <p>{review.body}</p>
       <Meta description={`Grade: ${review.grade}`} />
-      <Meta description={`Rating: ${review.grade}`} />
+      <Meta description={`Rating: ${review.rating}`} />
       <Meta description={`Difficulty: ${review.difficulty}`} />
     </Card>
   );
