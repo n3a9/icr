@@ -43,12 +43,15 @@ export const addReview = async (title, review) => {
   if (course) {
     course = course.result;
     course.reviews.push(review);
+    course.rating += review.rating;
+    course.difficulty += review.difficulty;
     return editCourse(title, course);
   } else {
     let newCourse = {
-      "title": title,
-      "reviews": [review],
-      "rating": review.rating
+      title: title,
+      reviews: [review],
+      rating: review.rating,
+      difficulty: review.difficulty
     };
     return addCourse(newCourse);
   }
