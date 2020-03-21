@@ -1,5 +1,5 @@
 import React from "react";
-import { Form, Button, Input, Select, InputNumber } from "antd";
+import { message, Form, Button, Input, Select, InputNumber } from "antd";
 
 import { addReview } from "../utils/api";
 import "../css/ReviewForm.css";
@@ -31,16 +31,29 @@ const validateMessages = {
   }
 };
 
+message.config({
+  top: 100,
+  duration: 5
+});
+
 const ReviewForm = props => {
   const { title, instructors } = props;
+  const [form] = Form.useForm();
 
   const onFinish = async data => {
     const reviewAdded = await addReview(title, data.review);
+    if (reviewAdded) {
+      message.success("Review posted!");
+      form.resetFields();
+    } else {
+      message.error("Error posting review!");
+    }
   };
 
   return (
     <Form
       {...layout}
+      form={form}
       size={"middle"}
       validateMessages={validateMessages}
       onFinish={onFinish}
