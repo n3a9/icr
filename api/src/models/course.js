@@ -12,7 +12,7 @@ const Review = new mongoose.Schema({
 const Course = new mongoose.Schema({
   title: { type: String, required: true },
   reviews: { type: [Review], default: [] },
-  rating: { type: Number, required: true }
+  rating: { type: Number, required: true },
   difficulty: { type: Number, required: true }
 });
 
