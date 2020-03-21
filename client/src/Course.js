@@ -6,13 +6,15 @@ import { getCourseByTitle } from "./utils/api";
 import courseJSON from "./data/courses.json";
 
 const Course = props => {
-  const [courseTitle, setCourseTitle] = useState("");
-  const [courseName, setCourseName] = useState("");
-  const [courseDescription, setCourseDescription] = useState("");
+  const [title] = useState(
+    props.match.params.name.replace(/([0-9])/, " $1")
+  );
+  const [name, setName] = useState("");
+  const [description, setDescription] = useState("");
   const [rating, setRating] = useState(0);
+  const [difficulty, setDifficulty] = useState(0);
   const [reviews, setReviews] = useState([]);
 
-  const title = props.match.params.name.replace(/([0-9])/, " $1");
   const course = courseJSON.find(course => course.title === title);
 
   useEffect(() => {
@@ -20,12 +22,12 @@ const Course = props => {
       const c = await getCourseByTitle(props.match.params.name);
       if (c) {
         setRating(c.result.rating);
+        setDifficulty(c.result.difficulty);
         setReviews(c.result.reviews);
       }
     };
 
-    setCourseTitle(title);
-    setCourseName(course.name);
+    setName(course.name);
     let parse = course.description.split(/([A-Z]\w+\s\d+)/g);
     parse.forEach((w, i) => {
       if (/([A-Z]\w+\s\d+)/g.test(w)) {
@@ -34,17 +36,19 @@ const Course = props => {
         );
       }
     }, parse);
-    setCourseDescription(parse);
+    setDescription(parse);
     fetchRatingReviews();
-  }, [title, course.name, course.description, props.match.params.name]);
+  }, [course.name, course.description, props.match.params.name]);
 
   return (
     <>
       <header className="header">
-        <h4>{courseName}</h4>
-        <p>{courseTitle}</p>
+        <h4>{name}</h4>
       </header>
-      <p className="description">{courseDescription}</p>
+      <p>{title}</p>
+      <p className="description">{description}</p>
+      <p>Rating: {rating}</p>
+      <p>Difficulty: {difficulty}</p>
       {reviews && reviews.map(r => <ReviewCard review={r} />)}
       <ReviewForm
         title={props.match.params.name}
