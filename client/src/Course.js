@@ -18,8 +18,10 @@ const Course = props => {
   useEffect(() => {
     const fetchRatingReviews = async () => {
       const c = await getCourseByTitle(props.match.params.name);
-      setRating(c.result.rating);
-      setReviews(c.result.reviews);
+      if (c) {
+        setRating(c.result.rating);
+        setReviews(c.result.reviews);
+      }
     };
 
     setCourseTitle(title);
