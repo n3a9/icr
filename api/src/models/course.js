@@ -6,7 +6,7 @@ const Review = new mongoose.Schema({
   rating: { type: Number, required: true },
   difficulty: { type: Number, required: true },
   instructor: { type: String },
-  grade: { type: String }
+  grade: { type: Number }
 });
 
 const Course = new mongoose.Schema({

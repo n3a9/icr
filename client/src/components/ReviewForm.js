@@ -1,5 +1,13 @@
 import React from "react";
-import { message, Form, Button, Input, Select, InputNumber } from "antd";
+import {
+  message,
+  Form,
+  Button,
+  Input,
+  Select,
+  InputNumber,
+  Slider
+} from "antd";
 
 import { addReview } from "../utils/api";
 import "../css/ReviewForm.css";
@@ -129,31 +137,16 @@ const ReviewForm = props => {
       >
         <InputNumber />
       </Form.Item>
-      <Form.Item
-        name={["review", "grade"]}
-        label="Grade"
-        rules={[
-          {
-            required: true,
-            message: "Please add a grade!"
-          }
-        ]}
-      >
-        <Select>
-          <Select.Option value="A+">A+</Select.Option>
-          <Select.Option value="A">A</Select.Option>
-          <Select.Option value="A-">A-</Select.Option>
-          <Select.Option value="B+">B+</Select.Option>
-          <Select.Option value="B">B</Select.Option>
-          <Select.Option value="B-">B-</Select.Option>
-          <Select.Option value="C+">C+</Select.Option>
-          <Select.Option value="C">C</Select.Option>
-          <Select.Option value="C-">C-</Select.Option>
-          <Select.Option value="D+">D+</Select.Option>
-          <Select.Option value="D">D</Select.Option>
-          <Select.Option value="D-">D-</Select.Option>
-          <Select.Option value="F">F</Select.Option>
-        </Select>
+      <Form.Item name={["review", "grade"]} label="Grade">
+        <Slider
+          marks={{
+            90: "A",
+            80: "B",
+            70: "C",
+            60: "D",
+            50: "F"
+          }}
+        />
       </Form.Item>
       <Form.Item {...tailLayout}>
         <Button type="primary" htmlType="submit">
