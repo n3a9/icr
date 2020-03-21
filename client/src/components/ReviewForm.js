@@ -1,7 +1,8 @@
 import React from "react";
-import { message, Form, Button, Input, Select, InputNumber } from "antd";
+import { message, Button, Form, Input, Rate, Select, Slider } from "antd";
 
 import { addReview } from "../utils/api";
+import { FrownOutlined } from "@ant-design/icons";
 import "../css/ReviewForm.css";
 
 const layout = {
@@ -21,15 +22,17 @@ const tailLayout = {
 };
 
 const validateMessages = {
-  required: "This field is required!",
-  types: {
-    email: "Not a valid email!",
-    number: "Not a valid number!"
-  },
-  number: {
-    range: "Must be between ${min} and ${max}"
-  }
+  required: "This field is required!"
 };
+
+const rateDescription = ["Terrible", "Bad", "Decent", "Good", "Wonderful"];
+const difficultyDescription = [
+  "Super Easy",
+  "Easy",
+  "Moderate",
+  "Hard",
+  "Super Hard"
+];
 
 message.config({
   top: 100,
@@ -107,13 +110,11 @@ const ReviewForm = props => {
         rules={[
           {
             required: true,
-            type: "number",
-            min: 0,
-            max: 5
+            message: "Please add a rating!"
           }
         ]}
       >
-        <InputNumber />
+        <Rate tooltips={rateDescription} allowHalf />
       </Form.Item>
       <Form.Item
         name={["review", "difficulty"]}
@@ -121,39 +122,27 @@ const ReviewForm = props => {
         rules={[
           {
             required: true,
-            type: "number",
-            min: 0,
-            max: 5
+            message: "Please add a difficulty!"
           }
         ]}
       >
-        <InputNumber />
+        <Rate
+          className="difficultyDisplay"
+          character={<FrownOutlined />}
+          tooltips={difficultyDescription}
+          allowHalf
+        />
       </Form.Item>
-      <Form.Item
-        name={["review", "grade"]}
-        label="Grade"
-        rules={[
-          {
-            required: true,
-            message: "Please add a grade!"
-          }
-        ]}
-      >
-        <Select>
-          <Select.Option value="A+">A+</Select.Option>
-          <Select.Option value="A">A</Select.Option>
-          <Select.Option value="A-">A-</Select.Option>
-          <Select.Option value="B+">B+</Select.Option>
-          <Select.Option value="B">B</Select.Option>
-          <Select.Option value="B-">B-</Select.Option>
-          <Select.Option value="C+">C+</Select.Option>
-          <Select.Option value="C">C</Select.Option>
-          <Select.Option value="C-">C-</Select.Option>
-          <Select.Option value="D+">D+</Select.Option>
-          <Select.Option value="D">D</Select.Option>
-          <Select.Option value="D-">D-</Select.Option>
-          <Select.Option value="F">F</Select.Option>
-        </Select>
+      <Form.Item name={["review", "grade"]} label="Grade">
+        <Slider
+          marks={{
+            90: "A",
+            80: "B",
+            70: "C",
+            60: "D",
+            50: "F"
+          }}
+        />
       </Form.Item>
       <Form.Item {...tailLayout}>
         <Button type="primary" htmlType="submit">
