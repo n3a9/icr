@@ -1,14 +1,5 @@
 import React from "react";
-import {
-  message,
-  Form,
-  Button,
-  Input,
-  Select,
-  InputNumber,
-  Slider,
-  Rate
-} from "antd";
+import { message, Form, Button, Input, Select, Slider, Rate } from "antd";
 
 import { addReview } from "../utils/api";
 import { FrownOutlined } from "@ant-design/icons";
@@ -136,6 +127,7 @@ const ReviewForm = props => {
         ]}
       >
         <Rate
+          className="difficultyDisplay"
           character={<FrownOutlined />}
           tooltips={difficultyDescription}
           allowHalf

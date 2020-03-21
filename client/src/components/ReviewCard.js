@@ -29,6 +29,7 @@ const ReviewCard = props => {
         defaultValue={review.difficulty}
         character={<FrownOutlined />}
         tooltips={difficultyDescription}
+        className="difficultyDisplay"
       />
       <Meta description={`Grade: ${review.grade}`} />
     </Card>
