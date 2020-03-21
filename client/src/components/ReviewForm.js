@@ -1,5 +1,5 @@
 import React from "react";
-import { message, Form, Button, Input, Select, Slider, Rate } from "antd";
+import { message, Button, Form, Input, Rate, Select, Slider } from "antd";
 
 import { addReview } from "../utils/api";
 import { FrownOutlined } from "@ant-design/icons";
