@@ -1,5 +1,5 @@
 import React from "react";
-import { message, Button, Form, Input, Rate, Select, Slider } from "antd";
+import { message, Form, Input, Modal, Rate, Select, Slider } from "antd";
 
 import { addReview } from "../utils/api";
 import { FrownOutlined } from "@ant-design/icons";
@@ -10,13 +10,6 @@ const layout = {
     span: 6
   },
   wrapperCol: {
-    span: 12
-  }
-};
-
-const tailLayout = {
-  wrapperCol: {
-    offset: 6,
     span: 12
   }
 };
@@ -39,117 +32,126 @@ message.config({
   duration: 5
 });
 
-const ReviewForm = props => {
-  const { title, instructors } = props;
+const ReviewForm = ({ visible, hideModal, title, instructors }) => {
   const [form] = Form.useForm();
 
-  const onFinish = async data => {
-    const reviewAdded = await addReview(title, data.review);
-    if (reviewAdded) {
-      message.success("Review posted!");
-      form.resetFields();
-    } else {
-      message.error("Error posting review!");
-    }
-  };
-
   return (
-    <Form
-      {...layout}
-      form={form}
-      size={"middle"}
-      validateMessages={validateMessages}
-      onFinish={onFinish}
-      className="reviewForm"
+    <Modal
+      visible={visible}
+      title="Create a new review!"
+      okText="Create"
+      cancelText="Cancel"
+      onCancel={hideModal}
+      onOk={() => {
+        form
+          .validateFields()
+          .then(async data => {
+            form.resetFields();
+            const reviewAdded = await addReview(title, data.review);
+            if (reviewAdded) {
+              message.success("Review posted!");
+              form.resetFields();
+            } else {
+              message.error("Error posting review!");
+            }
+            hideModal();
+          })
+          .catch(info => {
+            message.error("Error posting review!");
+          });
+      }}
     >
-      <Form.Item
-        name={["review", "title"]}
-        label="Title"
-        rules={[
-          {
-            required: true,
-            message: "Please add a review title!"
-          }
-        ]}
+      <Form
+        {...layout}
+        form={form}
+        size={"middle"}
+        validateMessages={validateMessages}
+        className="reviewForm"
       >
-        <Input />
-      </Form.Item>
-      {instructors[0] !== "" && (
         <Form.Item
-          name={["review", "instructor"]}
-          label="Instructor"
+          name={["review", "title"]}
+          label="Title"
           rules={[
             {
               required: true,
-              message: "Please select an instructor!"
+              message: "Please add a review title!"
             }
           ]}
         >
-          <Select>
-            {instructors.map(i => (
-              <Select.Option value={i}>{i}</Select.Option>
-            ))}
-          </Select>
+          <Input />
         </Form.Item>
-      )}
-      <Form.Item
-        name={["review", "body"]}
-        label="Description"
-        rules={[
-          {
-            required: true,
-            message: "Please add a review!"
-          }
-        ]}
-      >
-        <Input.TextArea />
-      </Form.Item>
-      <Form.Item
-        name={["review", "rating"]}
-        label="Rating"
-        rules={[
-          {
-            required: true,
-            message: "Please add a rating!"
-          }
-        ]}
-      >
-        <Rate tooltips={rateDescription} allowHalf />
-      </Form.Item>
-      <Form.Item
-        name={["review", "difficulty"]}
-        label="Difficulty"
-        rules={[
-          {
-            required: true,
-            message: "Please add a difficulty!"
-          }
-        ]}
-      >
-        <Rate
-          className="difficultyDisplay"
-          character={<FrownOutlined />}
-          tooltips={difficultyDescription}
-          allowHalf
-        />
-      </Form.Item>
-      <Form.Item name={["review", "grade"]} label="Grade">
-        <Slider
-          marks={{
-            90: "A",
-            80: "B",
-            70: "C",
-            60: "D",
-            50: "F"
-          }}
-        />
-      </Form.Item>
-      <Form.Item {...tailLayout}>
-        <Button type="primary" htmlType="submit">
-          Submit
-        </Button>
-      </Form.Item>
-    </Form>
+        {instructors[0] !== "" && (
+          <Form.Item
+            name={["review", "instructor"]}
+            label="Instructor"
+            rules={[
+              {
+                required: true,
+                message: "Please select an instructor!"
+              }
+            ]}
+          >
+            <Select>
+              {instructors.map(i => (
+                <Select.Option value={i}>{i}</Select.Option>
+              ))}
+            </Select>
+          </Form.Item>
+        )}
+        <Form.Item
+          name={["review", "body"]}
+          label="Description"
+          rules={[
+            {
+              required: true,
+              message: "Please add a review!"
+            }
+          ]}
+        >
+          <Input.TextArea />
+        </Form.Item>
+        <Form.Item
+          name={["review", "rating"]}
+          label="Rating"
+          rules={[
+            {
+              required: true,
+              message: "Please add a rating!"
+            }
+          ]}
+        >
+          <Rate tooltips={rateDescription} allowHalf />
+        </Form.Item>
+        <Form.Item
+          name={["review", "difficulty"]}
+          label="Difficulty"
+          rules={[
+            {
+              required: true,
+              message: "Please add a difficulty!"
+            }
+          ]}
+        >
+          <Rate
+            className="difficultyDisplay"
+            character={<FrownOutlined />}
+            tooltips={difficultyDescription}
+            allowHalf
+          />
+        </Form.Item>
+        <Form.Item name={["review", "grade"]} label="Grade">
+          <Slider
+            marks={{
+              90: "A",
+              80: "B",
+              70: "C",
+              60: "D",
+              50: "F"
+            }}
+          />
+        </Form.Item>
+      </Form>
+    </Modal>
   );
 };
 
