@@ -20,7 +20,9 @@ const difficultyDescription = [
 ];
 
 const Course = props => {
-  const [title] = useState(props.match.params.name.replace(/([0-9])/, " $1"));
+  const [title, setTitle] = useState(
+    props.match.params.name.replace(/([0-9])/, " $1")
+  );
   const [name, setName] = useState("");
   const [description, setDescription] = useState("");
   const [rating, setRating] = useState(0);
@@ -29,6 +31,13 @@ const Course = props => {
   const [modalVisible, setModalVisible] = useState(false);
 
   const course = courseJSON.find(course => course.title === title);
+
+  const onSelect = useCallback(
+    value => {
+      setTitle(value.replace(/([0-9])/, " $1"));
+    },
+    [setTitle]
+  );
 
   const fetchRatingReviews = useCallback(async () => {
     const c = await getCourseByTitle(props.match.params.name);
@@ -61,7 +70,7 @@ const Course = props => {
   return (
     <>
       <header className="header">
-        <Search />
+        <Search onSelect={onSelect} />
         <h4>{name}</h4>
       </header>
       <p>{title}</p>

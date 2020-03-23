@@ -6,7 +6,7 @@ import "../css/Search.css";
 
 const { Option } = AutoComplete;
 
-const Search = () => {
+const Search = ({ onSelect }) => {
   const history = useHistory();
   const [courses, setCourses] = useState([]);
 
@@ -32,9 +32,10 @@ const Search = () => {
 
   const onSearchSelect = useCallback(
     value => {
+      if (onSelect) onSelect(value);
       history.push(`/course/${value}`);
     },
-    [history]
+    [history, onSelect]
   );
 
   useEffect(parseCourses, []);
