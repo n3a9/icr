@@ -30,7 +30,7 @@
     },
     {
         "title": "AAS 201",
-        "name": "US Racial &amp; Ethnic Politics",
+        "name": "US Racial & Ethnic Politics",
         "description": "Same as AFRO 201, LLS 201, and PS 201. See PS 201.",
         "instructors": [
             "Khan, A",
@@ -131,7 +131,7 @@
     },
     {
         "title": "ABE 100",
-        "name": "Intro Agric &amp; Biological Engrg",
+        "name": "Intro Agric & Biological Engrg",
         "description": "Introduction to the engineering profession with career opportunities in the agricultural and biological engineering discipline. Concepts necessary for becoming a successful engineer including time management, design concepts, ethics, and teambuilding. Familiarization with laboratories, computer facilities, internships, and other opportunities. Team design experience. Emphasis on technical communication and problem-solving skills as well as career planning.",
         "instructors": [
             "Green-Miller, A"
@@ -157,7 +157,7 @@
     },
     {
         "title": "ABE 224",
-        "name": "ABE Principles: Soil &amp; Water",
+        "name": "ABE Principles: Soil & Water",
         "description": "Engineering principles and methods of design and management of natural resources and environmental systems; watershed and hydrologic cycle; infiltration and surveying; runoff and erosion; water quality; non-point source pollution. Prerequisite: One of MATH 220, MATH 221, MATH 234.",
         "instructors": [
             "Gambill, D",
@@ -383,7 +383,7 @@
     },
     {
         "title": "ACCY 301",
-        "name": "Atg Measurement &amp; Disclosure",
+        "name": "Atg Measurement & Disclosure",
         "description": "Introduction to measurement and reporting of organizational performance for strategic and operational purposes with a focus on a variety of financial and non-financial performance measures suitable for both internal and external decision-making. Projects, together with a series of practical workshops, facilitate self-discovery of knowledge and development of a variety of professional skills and attitudes. Prerequisite: ACCY 202 or equivalent and recommend concurrent enrollment in ACCY 302 for Accountancy majors.",
         "instructors": [
             "Davis, G",
@@ -586,7 +586,7 @@
     },
     {
         "title": "ACCY 515",
-        "name": "Auditing &amp; Assurance Standards",
+        "name": "Auditing & Assurance Standards",
         "description": "Role of professional and ethical standards in the conduct of auditing and assurance services and the role of auditing and assurance services in corporate governance. This course selectively surveys both academic and professional literature to focus on the conduct of auditing and assurance services. Cases, class discussion and research projects emphasize the importance of independent thinking, group processes, and communication for professional accounting practice.  Prerequisite: ACCY 405 and enrollment in the BS/MS in Accountancy program or consent of department.",
         "instructors": [
             "Zhou, Y",
@@ -804,7 +804,7 @@
     },
     {
         "title": "ACE 341",
-        "name": "Issues&amp;Careers in Applied Econ",
+        "name": "Issues&Careers in Applied Econ",
         "description": "Students study contemporary issues and career opportunities associated with various concentrations in the Department of Agricultural and Consumer Economics. An in-depth dialogue with industry professionals helps develop an understanding of the skill sets needed to succeed in each of the different career paths discussed. May not be repeated for credit.",
         "instructors": [
             "Fox, J",
@@ -832,7 +832,7 @@
     },
     {
         "title": "ACE 360",
-        "name": "Spreadsheet Models &amp; Applic",
+        "name": "Spreadsheet Models & Applic",
         "description": "Spreadsheet development and modeling skills intended for economics and finance applications. Advanced uses of spreadsheet software, development of user-defined functions, use of Visual Basic and comparable external interface languages, data query designs, and advanced data analyses, summary and presentation skills are stressed. Iintended to serve as a prerequisite for advanced modeling courses in specific disciplinary areas. Prerequisite: ACE 100 or equivalent, ACE 161 or CS 105, and completion of ACE 261 or ECON 203 or equivalent.",
         "instructors": [
             "Gatti, N",
@@ -916,7 +916,7 @@
     },
     {
         "title": "ACE 444",
-        "name": "Finan Serv &amp; Invest Plan",
+        "name": "Finan Serv & Invest Plan",
         "description": "Advanced skills in and understanding of asset pricing, equity and debt investment, portfolio theory and diversification, asset allocation, financial risk management, and financial intermediation and regulation emphasizing applications in financial planning and agricultural finance. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ACE 240, ACE 345, or FIN 221, and ECON 302 or consent of instructor.",
         "instructors": [
             "Schnitkey, G",
@@ -1634,7 +1634,7 @@
     },
     {
         "title": "AE 412",
-        "name": "Viscous Flow &amp; Heat Transfer",
+        "name": "Viscous Flow & Heat Transfer",
         "description": "Momentum and thermal transport in wall boundary-layer and free shear flows, solutions to the Navier-Stokes equations for heat conducting laminar and turbulent shear flows; similarity concepts; thermal boundary layers in ducts and high-speed aerodynamic boundary layers. Same as ME 411. 4 undergraduate hours. 4 graduate hours. Prerequisite: AE 311, ME 310 or TAM 335.",
         "instructors": [
             "Brewster, M"
@@ -1701,7 +1701,7 @@
     },
     {
         "title": "AE 454",
-        "name": "Systems Dynamics &amp; Control",
+        "name": "Systems Dynamics & Control",
         "description": "Examination of the common core of dynamics and control theory. Fundamental concepts of Lagrangian dynamics, state space representations, Hamiltonian and modern dynamics, stability theory, and control of dynamical systems. 3 undergraduate hours. 4 graduate hours. Prerequisite: AE 353.",
         "instructors": [
             "Langbort, C"
@@ -1709,7 +1709,7 @@
     },
     {
         "title": "AE 460",
-        "name": "Aerodynamics &amp; Propulsion Lab",
+        "name": "Aerodynamics & Propulsion Lab",
         "description": "Theory and application of experimental techniques in aerospace engineering with emphasis on fluid dynamic, aerodynamic, thermal, combustion, and propulsion phenomena. 2 undergraduate hours. No graduate credit. Prerequisite: AE 311; credit or concurrent registration in AE 433.",
         "instructors": [
             "",
@@ -1918,7 +1918,7 @@
     },
     {
         "title": "AFRO 201",
-        "name": "US Racial &amp; Ethnic Politics",
+        "name": "US Racial & Ethnic Politics",
         "description": "Same as AAS 201, LLS 201, and PS 201. See PS 201.",
         "instructors": [
             "Khan, A",
@@ -2010,7 +2010,7 @@
     },
     {
         "title": "AFRO 312",
-        "name": "Psychology of Race &amp; Ethnicity",
+        "name": "Psychology of Race & Ethnicity",
         "description": "Same as PSYC 312. See PSYC 312.",
         "instructors": [
             "Lyubansky, M"
@@ -2066,7 +2066,7 @@
     },
     {
         "title": "AFRO 481",
-        "name": "Urban Communities &amp; Public Pol",
+        "name": "Urban Communities & Public Pol",
         "description": "Examination of how public policy has shaped urban communities and the life chances (i.e., the social, economic, mental and physical well-being) of families of color. Emphasizes the theoretical, political, and economic context of public policy making and specifically address urban issues of housing, communities and families, employment, welfare, and poverty. This course will draw on scholarship by sociologists, historians, policy analysts, race theorists, and economists. Same as SOC 472 and UP 481. 3 undergraduate hours. 4 graduate hours.",
         "instructors": [
             "Conwill, W"
@@ -2160,7 +2160,7 @@
     },
     {
         "title": "AFST 405",
-        "name": "Topics Swahili Lang &amp; Lit I",
+        "name": "Topics Swahili Lang & Lit I",
         "description": "Same as SWAH 407. See SWAH 407.",
         "instructors": [
             "Gathogo, M",
@@ -2169,7 +2169,7 @@
     },
     {
         "title": "AFST 407",
-        "name": "Adv Topics Swahili Lang&amp;Lit I",
+        "name": "Adv Topics Swahili Lang&Lit I",
         "description": "Same as SWAH 409. See SWAH 409.",
         "instructors": [
             "Gathogo, M",
@@ -2317,7 +2317,7 @@
     },
     {
         "title": "AGED 100",
-        "name": "Intro to Ag &amp; Leadership Ed",
+        "name": "Intro to Ag & Leadership Ed",
         "description": "Overview of agricultural and leadership education career pathways in school and non-school settings, including extension, corporate and government sectors, and international and industry organizations. Includes overview of certification requirements, professional development, and current issues for agricultural education professionals.",
         "instructors": [
             "Ashby, O",
@@ -2350,7 +2350,7 @@
     },
     {
         "title": "AGED 220",
-        "name": "Prog Del in Ag &amp; Leadership Ed",
+        "name": "Prog Del in Ag & Leadership Ed",
         "description": "Introduces formal and non-formal methods used to deliver education and training in agricultural and leadership education programs. Focuses on types and purposes of agricultural education, program components, principles of teaching and learning, community relationships, and reflective teaching. Technology-supported lab component provides skills needed to develop teaching and training materials.",
         "instructors": [
             "Ashby, O",
@@ -2412,7 +2412,7 @@
     },
     {
         "title": "AGED 340",
-        "name": "Leadership Ethics &amp; Pluralism",
+        "name": "Leadership Ethics & Pluralism",
         "description": "Theory and research in leadership ethics and multicultural competence in a leadership context. Students will examine the underpinning of multiculturalism and identity development, and how both affect leadership practice. Also explores issues of power, oppression, privilege and the responsibilities of leadership. Integrates both ethics and multiculturalism through the examination of cases that include topics such as globalization, immigration, etc. Prerequisite: AGED 260.",
         "instructors": [
             "Collins, J"
@@ -2456,7 +2456,7 @@
     },
     {
         "title": "AGED 400",
-        "name": "Foundations of Ag &amp; Extn Ed",
+        "name": "Foundations of Ag & Extn Ed",
         "description": "Comparative examination of the mission, purpose, and historical foundations of agricultural and extension education. Topics include review of agricultural education programs and delivery systems, the nature of teaching in school and non-school settings, and trends and developments in agricultural education. Also examines teacher characteristics and approaches to teaching, education program components, community relationships, and reflective teaching. 3 undergraduate hours. 3 graduate hours.",
         "instructors": [
             "Leman, A"
@@ -2464,7 +2464,7 @@
     },
     {
         "title": "AGED 420",
-        "name": "Curr Design &amp; Instruction",
+        "name": "Curr Design & Instruction",
         "description": "This instructional methodology course provides students the opportunity to analyze the principles of learning and teaching as they influence the academic motivation of learners in formal and non-formal environments within agricultural, food and environmental sciences. Topics include: the understanding and implementation of psychological aspects of learning, planning and development of agricultural courses and curricula, creating teaching plans, managing positive learning environments, evaluating student learning, and the utilization of effective self-reflective teaching behaviors. 3 undergraduate hours. 3 graduate hours. Prerequisite: AGED 220 for majors; consent of instructor for non-majors.",
         "instructors": [
             "Korte, D"
@@ -2583,7 +2583,7 @@
     },
     {
         "title": "AHS 375",
-        "name": "Comm Partners &amp; Health",
+        "name": "Comm Partners & Health",
         "description": "Same as KIN 375 and SHS 375. See SHS 375.",
         "instructors": [
             "Bishop, D",
@@ -2732,7 +2732,7 @@
     },
     {
         "title": "ANSC 207",
-        "name": "Companion Animal Biology &amp;Care",
+        "name": "Companion Animal Biology &Care",
         "description": "An introduction to companion animal biology through consideration of the physical structure, nutrition, behavior, and reproduction of animal species most commonly kept as companions. The basic information is applied to discussion of basic preventive health care. Course content is largely focused on cats and dogs, although other mammals, birds and reptiles will be briefly considered. Legal and economic issues, and ethical considerations associated with companion animals are also incorporated into the course discussion. Credit is not given for both ANSC 207 and ANSC 307.",
         "instructors": [
             "Fischer-Brown, A",
@@ -2934,7 +2934,7 @@
     },
     {
         "title": "ANSC 424",
-        "name": "Pet Food &amp; Feed Manufacturing",
+        "name": "Pet Food & Feed Manufacturing",
         "description": "Integrates principles of animal nutrition with various aspects pertaining to pet food and animal feed manufacturing. Topics discussed in this course include processing technologies (e.g., extrusion, retorting, baking) involved in the manufacturing of pet foods and animal feeds, principles of diet formulation and nutritional guidelines, and an overview of regulatory affairs, quality control, and good manufacturing practices. This course includes two field trips to a pet food manufacturing facility and a food and feed ingredient company. 3 undergraduate hours. 3 graduate hours. Prerequisite: Required - ANSC 223; Recommended - ANSC 322 and ANSC 422.",
         "instructors": [
             "Cattai de Godoy, M"
@@ -2991,7 +2991,7 @@
     },
     {
         "title": "ANSC 471",
-        "name": "ANSC Leaders &amp; Entrepreneurs",
+        "name": "ANSC Leaders & Entrepreneurs",
         "description": "Designed to familiarize students with the tools and skills necessary for successful business operation in industry and entrepreneurial environments including food animal production farms. The overall aim is to explore how enhanced interpersonal and leadership skills facilitate positive relations in business. Students will design a business plan, an entrepreneurial enterprise, that will be read by an external committee of professors, community members, and business owners and evaluated for its viability and creativity. This course is relevant for leaders as well as future entrepreneurs interested in acquiring valuable skills that may be applied to many careers. 3 undergraduate hours. 3 graduate hours. Prerequisites: Any advanced composition course.",
         "instructors": [
             "Cardoso, F"
@@ -3121,7 +3121,7 @@
     },
     {
         "title": "ANTH 108",
-        "name": "Religion &amp; Society in West I",
+        "name": "Religion & Society in West I",
         "description": "Same as JS 108, PHIL 108, and REL 108. See REL 108.",
         "instructors": [
             "Rosenstock, B"
@@ -3247,7 +3247,7 @@
     },
     {
         "title": "ANTH 372",
-        "name": "Topics in Lang &amp; Culture",
+        "name": "Topics in Lang & Culture",
         "description": "Advanced topics in language and culture. May be repeated in separate terms. Prerequisite: ANTH 104, ANTH 270, or consent of instructor.",
         "instructors": [
             "Kramer, E"
@@ -3481,7 +3481,7 @@
     },
     {
         "title": "ARAB 150",
-        "name": "Lang&amp;Culture of Arab World",
+        "name": "Lang&Culture of Arab World",
         "description": "Interdisciplinary overview of the major aspects of the contemporary Arab culture. Based on scholarly research, textual resources, media, and literature from both the Arab World and elsewhere, examines the Arab people's historical background; language varieties; literary traditions; and representative social institutions. Same as SAME 150.",
         "instructors": [
             "Saadah, E"
@@ -3674,7 +3674,7 @@
     },
     {
         "title": "ARCH 451",
-        "name": "Theory &amp; Design Steel &amp; Timber",
+        "name": "Theory & Design Steel & Timber",
         "description": "Analysis and design of steel and timber structures for buildings. Steel columns, beams, trusses, connections, roof and floor framing systems; timber beams, columns, roof and floor framing systems. 4 undergraduate hours. 4 graduate hours. Prerequisite: ARCH 352.",
         "instructors": [
             "Aminmansour, A",
@@ -3699,7 +3699,7 @@
     },
     {
         "title": "ARCH 475",
-        "name": "Arch Design &amp; Development",
+        "name": "Arch Design & Development",
         "description": "Schematic design and development of a small-scale public building emphasizing the integration of the basic elements of building; materials, details, structure, technology, program, life safety, and universal design. 6 undergraduate hours. 6 graduate hours. Prerequisite: ARCH 374 or ARCH 472.",
         "instructors": [
             "",
@@ -3713,7 +3713,7 @@
     },
     {
         "title": "ARCH 476",
-        "name": "Arch Design &amp; Exploration",
+        "name": "Arch Design & Exploration",
         "description": "Exploration of boundaries of architecture and the built environment. Focused exploration into specific design topics, such as issue-oriented building problems, urban design theory, intermediate building design and site planning theory, human-environment relationship theory, interdisciplinary design, and architectural design and presentation methods. 4 undergraduate hours. 4 graduate hours. Prerequisite: ARCH 475.",
         "instructors": [
             "Lapunzina, A",
@@ -3800,7 +3800,7 @@
     },
     {
         "title": "ARCH 544",
-        "name": "Bldg Sys &amp; Design Integration",
+        "name": "Bldg Sys & Design Integration",
         "description": "Advanced course on building design for greater performance, including the study of: the anatomical and functional variations of building subsystems and their design implications; inter-system relationships and synergistic integration of building subsystems into the overall building; and the strategies for designing buildings of high functional performance and greater overall value. Term paper is required for 4 hours credit. Prerequisite: Graduate standing in Architecture or consent of instructor.",
         "instructors": [
             "Kim, M"
@@ -3944,7 +3944,7 @@
     },
     {
         "title": "ARCH 593",
-        "name": "Spec Prob Arch Practice &amp; Mgt",
+        "name": "Spec Prob Arch Practice & Mgt",
         "description": "In-depth investigation of emerging issues and specific areas of research interest beyond what is covered in graduate courses of regular offering in the area of architectural practice and management. Students, as individuals or in groups, are expected to propose a research plan and methods for a specific topic of research interest in consultation with the instructor, and execute it under the guidance of the instructor through consultation on a regular basis. May be repeated in same and subsequent terms as topics vary to a maximum of 12 hours. Prerequisite: Advanced graduate standing and consent of instructor.",
         "instructors": [
             "Johnson, T",
@@ -3955,7 +3955,7 @@
     },
     {
         "title": "ARCH 595",
-        "name": "Spec Prob Struct Theory &amp; Des",
+        "name": "Spec Prob Struct Theory & Des",
         "description": "Individual or group investigation and study in architectural engineering application; research in economy and design in correlation with architectural, mechanical, and structural requirements. May be repeated to a maximum of 12 hours. Prerequisite: Consent of instructor.",
         "instructors": [
             "Uihlein, M",
@@ -4047,7 +4047,7 @@
     },
     {
         "title": "ART 151",
-        "name": "Black &amp; White Film Photography",
+        "name": "Black & White Film Photography",
         "description": "Course offers a foundation in black & white film photography. Camera use, film exposure & processing, and printing processes will be explained and demonstrated. Provides a technical & conceptual understanding of photography as a visual medium for expression and communication of ideas. Approved for Letter and S/U grading. May be repeated in separate terms up to 6 hours. Prerequisite: Enrollment is restricted to students in Living Learning Communities and minors in Art + Design.",
         "instructors": [
             "Hudson, B"
@@ -5180,7 +5180,7 @@
     },
     {
         "title": "ASRM 561",
-        "name": "Loss Data Analytics &amp; Credibility",
+        "name": "Loss Data Analytics & Credibility",
         "description": "Introduction to the actuarial modeling process: construction, selection and validation of empirical and parametric models. Survival, severity, frequency and aggregate loss models; statistical methods to estimate model parameters. 4 graduate hours. No professional credit. Credit is not given for ASRM 461 (formerly MATH 478) and ASRM 561 (formerly MATH 568). Prerequisite: ASRM 401 (formerly MATH 408), MATH 461 or MATH 463.",
         "instructors": [
             "Cole, P"
@@ -5464,7 +5464,7 @@
     },
     {
         "title": "ATMS 322",
-        "name": "Soc Impacts Weather &amp; Climate",
+        "name": "Soc Impacts Weather & Climate",
         "description": "Examines the interconnectedness of weather, climate and society. Focus is on the complex relationship between weather, climate and society from both a physical and social perspective with an examination of the role of sustainability in both impacts and future mitigation. Discussions focused on the physical principles driving the weather and climate and how they interact with all aspects of society. Same as ENSU 301.",
         "instructors": [
             "Pettijohn, J"
@@ -5652,7 +5652,7 @@
     },
     {
         "title": "BADM 261",
-        "name": "Technology &amp; Mgmt Seminar",
+        "name": "Technology & Mgmt Seminar",
         "description": "Current topics in technology and management presented by senior executives from a wide range of industries. Executives discuss challenges they confront and approaches taken in execution of their respective businesses. Format encourages dialogue and discussions between executives and students. Same as ENG 261. Credit is not given toward technical electives in the College of Engineering nor business electives in the College of Business, nor toward the T&M Minor.",
         "instructors": [
             "Harrison, I"
@@ -5996,7 +5996,7 @@
     },
     {
         "title": "BADM 403",
-        "name": "Corporate &amp; Commercial Law",
+        "name": "Corporate & Commercial Law",
         "description": "Advanced discussion of corporate and commercial law, including topics tested on the CPA exam: agency, contracts, debtor-creditor relationships, governmental regulation of business and business organizations. 4 undergraduate hours. 4 graduate hours.",
         "instructors": [
             "Wright, M"
@@ -6599,7 +6599,7 @@
     },
     {
         "title": "BIOE 202",
-        "name": "Cell &amp; Tissue Engineering Lab",
+        "name": "Cell & Tissue Engineering Lab",
         "description": "Principles of cell biology inherent in tissue engineering design. Lab experience in safely and skillfully manipulating cells of the four tissue types and performing various quantitative analyses on products produced by cells that have differentiated. Prerequisite: MCB 150, and credit or concurrent enrollment in BIOE 206.",
         "instructors": [
             "Jensen, K"
@@ -7003,7 +7003,7 @@
     },
     {
         "title": "BSE 642",
-        "name": "Hematology &amp; Oncology",
+        "name": "Hematology & Oncology",
         "description": "Topics include lung cancer, colon cancer, breast cancer, renal cancer, prostate cancer, pancreatic cancer, iron deficiency anemia, sickle cell anemia, lymphoma- non-Hodgkin, acute myelocytic leukemia, chronic lymphocytic leukemia, idiopathic thrombocytopenia. No graduate credit. 3 professional hours. Approved for S/U grading only. Prerequisite: This course is restricted to students enrolled in the MD program at Carle Illinois College of Medicine.",
         "instructors": [
             "Pluta, W",
@@ -7013,7 +7013,7 @@
     },
     {
         "title": "BSE 643",
-        "name": "Infection &amp; Immunity",
+        "name": "Infection & Immunity",
         "description": "Topics include pneumonia, sepsis UTI – pyelonephritis, cellulitis, HIV anaphylaxis, allergic dermatitis, myocarditis encephalitis. No graduate credit. 3 professional hours. Approved for S/U grading only. Prerequisite: This course is restricted to students enrolled in the MD program at Carle Illinois College of Medicine.",
         "instructors": [
             "Pluta, W",
@@ -7264,7 +7264,7 @@
     },
     {
         "title": "CEE 201",
-        "name": "Systems Engrg &amp; Economics",
+        "name": "Systems Engrg & Economics",
         "description": "Introduction to the formulation and solution of civil engineering problems. Major topics: engineering economy, mathematical modeling, and optimization. Application of techniques, including classical optimization, linear and nonlinear programming, network theory, critical path methods, simulation, decision theory, and dynamic programming to a variety of civil engineering problems. Credit is not given for both CEE 201 and IE 310. Prerequisite: MATH 231; credit or concurrent registration in MATH 225.",
         "instructors": [
             "Meidani, H",
@@ -7273,7 +7273,7 @@
     },
     {
         "title": "CEE 202",
-        "name": "Engineering Risk &amp; Uncertainty",
+        "name": "Engineering Risk & Uncertainty",
         "description": "Identification and modeling of non-deterministic problems in civil engineering design and decision making. Development of stochastic concepts and simulation models, and their relevance to real design and decision problems in various areas of civil engineering. Credit is not given for both CEE 202 and IE 300. Prerequisite: Credit or concurrent registration in MATH 241.",
         "instructors": [
             "Zhao, L",
@@ -8004,7 +8004,7 @@
     },
     {
         "title": "CHBE 551",
-        "name": "Chemical Kinetics &amp; Catalysis",
+        "name": "Chemical Kinetics & Catalysis",
         "description": "Rates and mechanisms of chemical reactions, treatment of data, steady state and unsteady behavior predictions of mechanisms, prediction of rate constants and activation barriers. Introduction to catalysis. Catalysis by solvents, metals, organometallics, acids, enzymes, semiconductors. Same as CHEM 582. Prerequisite: An undergraduate course in chemical kinetics.",
         "instructors": [
             "Berdugo Diaz, C",
@@ -8723,7 +8723,7 @@
     },
     {
         "title": "CHEM 582",
-        "name": "Chemical Kinetics &amp; Catalysis",
+        "name": "Chemical Kinetics & Catalysis",
         "description": "Same as CHBE 551. See CHBE 551.",
         "instructors": [
             "Flaherty, D"
@@ -8886,7 +8886,7 @@
     },
     {
         "title": "CHLH 125",
-        "name": "Orientation KIN &amp; Comm Health",
+        "name": "Orientation KIN & Comm Health",
         "description": "Serves as an introduction to the Kinesiology and Community Health Department and provides an overview of the Kinesiology and Community Health curricula, areas of study, and opportunities available for careers in the field. Enrollment required for Community Health freshmen and transfer students. Credit is not given for both CHLH 125 and KIN 125.",
         "instructors": [
             "Cosat, C",
@@ -9084,7 +9084,7 @@
     },
     {
         "title": "CHLH 448",
-        "name": "Exercise &amp; Health Psychology",
+        "name": "Exercise & Health Psychology",
         "description": "Same as KIN 448. See KIN 448.",
         "instructors": [
             "Gothe, N"
@@ -9126,7 +9126,7 @@
     },
     {
         "title": "CHLH 465",
-        "name": "Social Marketing Health&amp;Behav",
+        "name": "Social Marketing Health&Behav",
         "description": "Same as CMN 465. See CMN 465.",
         "instructors": [
             "Quick, B"
@@ -9142,7 +9142,7 @@
     },
     {
         "title": "CHLH 473",
-        "name": "Immigration, Health &amp; Society",
+        "name": "Immigration, Health & Society",
         "description": "Same as LLS 473, SOC 473, and SOCW 473. See LLS 473.",
         "instructors": [
             "Viruell-Fuentes, E"
@@ -9549,7 +9549,7 @@
     },
     {
         "title": "CI 507",
-        "name": "Problems &amp; Trends in Special Fields",
+        "name": "Problems & Trends in Special Fields",
         "description": "Intensive examination of problems and trends in the subject fields. 4 graduate hours. No professional credit. May be repeated in separate terms to a maximum of 8 hours.",
         "instructors": [
             "Thorstensson Davila, L",
@@ -9627,7 +9627,7 @@
     },
     {
         "title": "CI 566",
-        "name": "Topics Writ Pedagogy &amp; Design",
+        "name": "Topics Writ Pedagogy & Design",
         "description": "Same as ENGL 583. See ENGL 583.",
         "instructors": [
             "Mortensen, P"
@@ -9672,7 +9672,7 @@
     },
     {
         "title": "CI 591",
-        "name": "Field Study &amp; Thesis Seminar",
+        "name": "Field Study & Thesis Seminar",
         "description": "Assists doctoral candidates in planning field studies and thesis problems. Students are expected to present their studies at each of four stages: (1) the inception, delimitation, tentative design stage; (2) the proposed design stage; (3) the revised design stage; and (4) the final design stage. Students are expected to analyze critically all presentations. Prerequisite: Admission to doctoral study.",
         "instructors": [
             ""
@@ -9707,7 +9707,7 @@
     },
     {
         "title": "CLCV 102",
-        "name": "Medical Terms-GRK &amp; LAT Roots",
+        "name": "Medical Terms-GRK & LAT Roots",
         "description": "Introduction to the study of the Greek and Latin roots of contemporary medical terminology and to the linguistic patterns governing their combination and usage.",
         "instructors": [
             "Goebel, C"
@@ -9820,7 +9820,7 @@
     },
     {
         "title": "CLCV 240",
-        "name": "Sex &amp; Gender in Antiquity",
+        "name": "Sex & Gender in Antiquity",
         "description": "Understanding of the place of women in ancient societies can be gained through the examination of the ways in which the ancients conceptualized sex and gender. The myths, religion, art and literature of Egypt, Greece, Rome and the Near East contain a wide array of representations of men and women, of their emotions, as well as of their social, legal and political status and relations. Same as CWL 262 and GWS 240.",
         "instructors": [
             "Williams, C"
@@ -9890,7 +9890,7 @@
     },
     {
         "title": "CMN 102",
-        "name": "Intro to Comm Theory &amp; Res",
+        "name": "Intro to Comm Theory & Res",
         "description": "Survey of the questions probed, the methods employed, and the current status of knowledge in the study of communication.",
         "instructors": [
             "Quick, B",
@@ -9901,7 +9901,7 @@
     },
     {
         "title": "CMN 111",
-        "name": "Oral &amp; Written Comm I",
+        "name": "Oral & Written Comm I",
         "description": "Principles and practice in communication; stress on fundamentals of critical thinking in writing and speaking. The campus Composition I general education requirement is fulfilled by this course in conjunction with CMN 112. Credit is not given for both CMN 111 + CMN 112, and other courses that fulfill the Composition I requirement (such as RHET 101+RHET 102, RHET 105, ESL 115); Credit is also not given for both CMN 111+ CMN 112, and CMN 101. CMN 111+ CMN 112 cannot be taken by students who have completed the campus Composition I general education requirement.",
         "instructors": [
             "Campbell, D",
@@ -9962,7 +9962,7 @@
     },
     {
         "title": "CMN 215",
-        "name": "Interviewing Principles &amp; Practices",
+        "name": "Interviewing Principles & Practices",
         "description": "Provides a survey of communication-based interviewing theories and practices. Students will learn theoretical and practical principles related to major types of interviews, the ethics and legalities of interviewing, and apply this knowledge through repeated practice, as both an interviewer and interviewee, leading to competency in employment, informational, and persuasive scenarios. Credit is not given for both CMN 115 and CMN 215. Prerequisite: CMN 101 or CMN 111 and CMN 112.",
         "instructors": [
             "Ditewig-Morris, K"
@@ -10039,7 +10039,7 @@
     },
     {
         "title": "CMN 280",
-        "name": "Comm Technology &amp; Society",
+        "name": "Comm Technology & Society",
         "description": "Introduction to theory and research on both old and new communication technologies; focus will be on how these technological systems develop and are used, and what implications of these systems have for culture and society.",
         "instructors": [
             "Jackson, S"
@@ -10210,7 +10210,7 @@
     },
     {
         "title": "CMN 465",
-        "name": "Social Marketing Health&amp;Behav",
+        "name": "Social Marketing Health&Behav",
         "description": "Applies marketing concepts and practices to bring about behavior change for a social good. Social marketing is an approach to planning and implementing projects and programs that emphasizes a customer-centered mindset to learn what people want and need to change their behavior. Designed to give students a thorough orientation to the discipline of social marketing and its application to a range of problems with an emphasis on issues in health contexts. Topics will include audience research, segmentation strategies, communication channels, marketing mix, and the application of behavioral theory. Students will acquire practical skills in the design, implementation, and evaluation of health intervention initiatives that use social marketing. Same as CHLH 465. 3 undergraduate hours. 4 graduate hours.",
         "instructors": [
             "Quick, B"
@@ -10263,7 +10263,7 @@
     },
     {
         "title": "CMN 507",
-        "name": "Hlth Comm Orgs Profs &amp; Policy",
+        "name": "Hlth Comm Orgs Profs & Policy",
         "description": "Study of the organizational features of the U.S. health care systems, generating a comprehensive image of the context in which communication between patients and providers, health care consumers and organizations, and public health care messages are sent, received, exchanged, interpreted, and circulated. Offered Fall terms only. Prerequisite: Only for students enrolled in the MS in Health Communications degree program.",
         "instructors": [
             "Clark, L"
@@ -10358,7 +10358,7 @@
     },
     {
         "title": "CPSC 113",
-        "name": "Environment, Agric, &amp; Society",
+        "name": "Environment, Agric, & Society",
         "description": "Introduction to agriculture and the environment; examine the largest managed ecosystem and its influence on natural ecosystems; develop a working understanding of natural and agriculture ecosystems and their interaction; examine various agriculture management strategies that can be used to produce food for an increasing world population while maintaining or improving environmental quality.",
         "instructors": [
             "Rayburn, A"
@@ -10650,7 +10650,7 @@
     },
     {
         "title": "CS 101",
-        "name": "Intro Computing: Engrg &amp; Sci",
+        "name": "Intro Computing: Engrg & Sci",
         "description": "Fundamental principles, concepts, and methods of computing, with emphasis on applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures; use of computers in solving engineering and scientific problems. Intended for engineering and science majors. Prerequisite: MATH 220 or MATH 221.",
         "instructors": [
             "Davis, N"
@@ -10731,7 +10731,7 @@
     },
     {
         "title": "CS 210",
-        "name": "Ethical &amp; Professional Issues",
+        "name": "Ethical & Professional Issues",
         "description": "Ethics for the computing profession. Ethical decision-making; licensing; intellectual property, freedom of information, and privacy. Credit is not given for both CS 210 and ECE 316. Prerequisite: CS 225. Junior standing required.",
         "instructors": [
             "Asplund, J",
@@ -10793,7 +10793,7 @@
     },
     {
         "title": "CS 361",
-        "name": "Probability &amp; Statistics for Computer Science",
+        "name": "Probability & Statistics for Computer Science",
         "description": "Introduction to probability theory and statistics with applications to computer science. Topics include: visualizing datasets, summarizing data, basic descriptive statistics, conditional probability, independence, Bayes theorem, random variables, joint and conditional distributions, expectation, variance and covariance, central limit theorem. Markov inequality, Chebyshev inequality, law of large numbers, Markov chains, simulation, the PageRank algorithm, populations and sampling, sample mean, standard error, maximum likelihood estimation, Bayes estimation, hypothesis testing, confidence intervals, linear regression, principal component analysis, classification, and decision trees. Same as STAT 361. Credit is not given for both CS 361 and ECE 313. Prerequisite: MATH 220 or MATH 221; credit or concurrent registration in one of MATH 225, MATH 415 or MATH 416. For majors only.",
         "instructors": [
             "Liu, H",
@@ -10802,7 +10802,7 @@
     },
     {
         "title": "CS 374",
-        "name": "Introduction to Algorithms &amp; Models of Computation",
+        "name": "Introduction to Algorithms & Models of Computation",
         "description": "Analysis of algorithms, major paradigms of algorithm design including recursive algorithms, divide-and-conquer algorithms, dynamic programming, greedy algorithms, and graph algorithms. Formal models of computation including finite automata and Turing machines. Limitations of computation arising from fundamental notions of algorithm and from complexity-theoretic constraints. Reductions, undecidability and NP-completeness. Same as ECE 374. Prerequisite: CS 225.",
         "instructors": [
             "Erickson, J",
@@ -10860,7 +10860,7 @@
     },
     {
         "title": "CS 420",
-        "name": "Parallel Progrmg: Sci &amp; Engrg",
+        "name": "Parallel Progrmg: Sci & Engrg",
         "description": "Fundamental issues in design and development of parallel programs for various types of parallel computers. Various programming models according to both machine type and application area. Cost models, debugging, and performance evaluation of parallel programs with actual application examples. Same as CSE 402 and ECE 492. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 225.",
         "instructors": [
             "Padua, D"
@@ -10868,7 +10868,7 @@
     },
     {
         "title": "CS 421",
-        "name": "Programming Languages &amp; Compilers",
+        "name": "Programming Languages & Compilers",
         "description": "Structure of programming languages and their implementation. Basic language design principles; abstract data types; functional languages; type systems; object-oriented languages. Basics of lexing, parsing, syntax-directed translation, semantic analysis, and code generation. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 233 or CS 240; CS 374.",
         "instructors": [
             "Gunter, E",
@@ -11015,7 +11015,7 @@
     },
     {
         "title": "CS 481",
-        "name": "Advanced Topics in Stochastic Processes &amp; Applications",
+        "name": "Advanced Topics in Stochastic Processes & Applications",
         "description": "Same as IE 410. See IE 410.",
         "instructors": [
             "Jacobson, S"
@@ -11102,7 +11102,7 @@
     },
     {
         "title": "CS 513",
-        "name": "Theory &amp; Practice of Data Cleaning",
+        "name": "Theory & Practice of Data Cleaning",
         "description": "Same as IS 532. See IS 532.",
         "instructors": [
             "",
@@ -11273,7 +11273,7 @@
     },
     {
         "title": "CSE 402",
-        "name": "Parallel Progrmg: Sci &amp; Engrg",
+        "name": "Parallel Progrmg: Sci & Engrg",
         "description": "Same as CS 420 and ECE 492. See CS 420.",
         "instructors": [
             "Padua, D"
@@ -11617,7 +11617,7 @@
     },
     {
         "title": "CWL 117",
-        "name": "Russ &amp; E Euro Science Fiction",
+        "name": "Russ & E Euro Science Fiction",
         "description": "Same as SLAV 117. See SLAV 117.",
         "instructors": [
             "Tempest, R"
@@ -11642,7 +11642,7 @@
     },
     {
         "title": "CWL 189",
-        "name": "Lit of Asia &amp; Africa I",
+        "name": "Lit of Asia & Africa I",
         "description": "Comparative study of major works from Africa, the Middle East, South and East Asia, from ancient times through the medieval period, emphasizing literary, cultural, philosophical, and religious traditions, and cross-cultural contact. Topics studied may include Egyptian and Mesopotamian mythology, Hinduism, Buddhism, Confucianism, Daoism, and the Abrahamic tradition. All readings in English.",
         "instructors": [
             "Kuras, E"
@@ -11725,7 +11725,7 @@
     },
     {
         "title": "CWL 240",
-        "name": "Italy Middle Ages &amp; Renaiss",
+        "name": "Italy Middle Ages & Renaiss",
         "description": "Same as ITAL 240 and MDVL 240. See ITAL 240.",
         "instructors": [
             "Stoppino, E"
@@ -11804,7 +11804,7 @@
     },
     {
         "title": "CWL 262",
-        "name": "Sex &amp; Gender in Antiquity",
+        "name": "Sex & Gender in Antiquity",
         "description": "Same as CLCV 240 and GWS 240. See CLCV 240.",
         "instructors": [
             "Williams, C"
@@ -12687,7 +12687,7 @@
     },
     {
         "title": "EALC 343",
-        "name": "Gov &amp; Pol of China",
+        "name": "Gov & Pol of China",
         "description": "Same as PS 343. See PS 343.",
         "instructors": [
             "Nagashima, D",
@@ -12921,7 +12921,7 @@
     },
     {
         "title": "ECE 211",
-        "name": "Analog Circuits &amp; Systems",
+        "name": "Analog Circuits & Systems",
         "description": "Concepts from circuit and system analysis: linear systems; review of elementary circuit analysis; op amps; transient analysis; differential equation models of linear circuits and systems; Laplace transform. Credit is not given for both ECE 211 and ECE 210. Prerequisite: ECE 110 and PHYS 212; credit or concurrent registration in MATH 285 or MATH 286.",
         "instructors": [
             "Shao, Y",
@@ -12933,7 +12933,7 @@
     },
     {
         "title": "ECE 220",
-        "name": "Computer Systems &amp; Programming",
+        "name": "Computer Systems & Programming",
         "description": "Advanced use of LC-3 assembly language for I/O and function calling convention. C programming, covering basic programming concepts, functions, arrays, pointers, I/O, recursion, simple data structures, linked lists, dynamic memory management, and basic algorithms. Information hiding and object-oriented design as commonly implemented in modern software and computer systems programming. Prerequisite: ECE 120. Restricted to Computer Engineering or Electrical Engineering majors or transfer students with ECE Department consent.",
         "instructors": [
             "",
@@ -13037,7 +13037,7 @@
     },
     {
         "title": "ECE 330",
-        "name": "Power Ckts &amp; Electromechanics",
+        "name": "Power Ckts & Electromechanics",
         "description": "Network equivalents; power and energy fundamentals, resonance, mutual inductance; three-phase power concepts, forces and torques of electric origin in electromagnetic and electrostatic systems; energy conversion cycles; principles of electric machines; transducers; relays; laboratory demonstration. Prerequisite: ECE 210.",
         "instructors": [
             "Schuh, J",
@@ -13105,7 +13105,7 @@
     },
     {
         "title": "ECE 374",
-        "name": "Introduction to Algorithms &amp; Models of Computation",
+        "name": "Introduction to Algorithms & Models of Computation",
         "description": "Same as CS 374. See CS 374.",
         "instructors": [
             "Erickson, J",
@@ -13189,7 +13189,7 @@
     },
     {
         "title": "ECE 411",
-        "name": "Computer Organization &amp; Design",
+        "name": "Computer Organization & Design",
         "description": "Basic computer organization and design: integer and floating-point computer arithmetic; control unit design; pipelining; system interconnect; memory organization; I/O design; reliability and performance evaluation. Laboratory for computer design implementation, simulation, and layout. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 391 or CS 241.",
         "instructors": [
             "Kumar, R",
@@ -13281,7 +13281,7 @@
     },
     {
         "title": "ECE 444",
-        "name": "IC Device Theory &amp; Fabrication",
+        "name": "IC Device Theory & Fabrication",
         "description": "Fabrication lab emphasizing physical theory and design of devices suitable for integrated circuitry; electrical properties of semiconductors and techniques (epitaxial growth, oxidation, photolithography diffusion, ion implantation, metallization, and characterization) for fabricating integrated circuit devices such as p-n junction diodes, bipolar transistors, and field effect transistors. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 340.",
         "instructors": [
             "",
@@ -13449,7 +13449,7 @@
     },
     {
         "title": "ECE 488",
-        "name": "Compound Semicond &amp; Devices",
+        "name": "Compound Semicond & Devices",
         "description": "Advanced semiconductor materials and devices; elementary band theory; heterostructures; transport issues; three-terminal devices; two-terminal devices; including lasers and light modulators. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 340 and ECE 350.",
         "instructors": [
             "Dallesasse, J"
@@ -13467,7 +13467,7 @@
     },
     {
         "title": "ECE 492",
-        "name": "Parallel Progrmg: Sci &amp; Engrg",
+        "name": "Parallel Progrmg: Sci & Engrg",
         "description": "Same as CS 420 and CSE 402. See CS 420.",
         "instructors": [
             "Padua, D"
@@ -13525,7 +13525,7 @@
     },
     {
         "title": "ECE 515",
-        "name": "Control System Theory &amp; Design",
+        "name": "Control System Theory & Design",
         "description": "Feedback control systems emphasizing state space techniques. Basic principles, modeling, analysis, stability, structural properties, optimization, and design to meet specifications. Same as ME 540. Prerequisite: ECE 486.",
         "instructors": [
             "Dong, R",
@@ -13534,7 +13534,7 @@
     },
     {
         "title": "ECE 517",
-        "name": "Nonlinear &amp; Adaptive Control",
+        "name": "Nonlinear & Adaptive Control",
         "description": "Design of nonlinear control systems based on stability considerations; Lyapunov and hyperstability approaches to analysis and design of model reference adaptive systems; identifiers, observers, and controllers for unknown plants. Prerequisite: ECE 515.",
         "instructors": [
             "Liberzon, D"
@@ -13567,7 +13567,7 @@
     },
     {
         "title": "ECE 535",
-        "name": "Theory of Semicond &amp; Devices",
+        "name": "Theory of Semicond & Devices",
         "description": "Introductory quantum mechanics of semiconductors; energy bands; dynamics of Block electrons in static and high-frequency electric and magnetic fields; equilibrium statistics; transport theory, diffusion, drift, and thermoelectric effects; characteristics of p-n junctions, heterojunctions, and transistor devices. Same as PHYS 565. Prerequisite: Senior-level course in quantum mechanics or atomic physics.",
         "instructors": [
             "Leburton, J"
@@ -14242,7 +14242,7 @@
     },
     {
         "title": "EDPR 250",
-        "name": "School &amp; Community Experiences",
+        "name": "School & Community Experiences",
         "description": "Early field experiences in teacher education, including observation and laboratory experiences in public schools: designed to provide opportunities for career exploration, professional orientation, the development of insight into the interrelationship of theory and practice, and the place of the student in the educational process. Approved for S/U grading only. May be repeated. Prerequisite: Consent of instructor.",
         "instructors": [
             "Mann, J",
@@ -14260,7 +14260,7 @@
     },
     {
         "title": "EDPR 432",
-        "name": "Ed Prac in EC &amp; ELED",
+        "name": "Ed Prac in EC & ELED",
         "description": "Course in practice teaching to meet licensure requirements for teaching in the elementary school. 2 to 12 undergraduate hours. 2 to 12 graduate hours. Approved for S/U grading only. Prerequisite: CI 420 or CI 406 as required by the student's curriculum; Satisfactory completion of all requirements of the Council on Teacher Education Undergraduate or Graduate Common Assessment Plan for Initial Certification (http://cote.illinois.edu/).",
         "instructors": [
             "Mann, J",
@@ -14535,7 +14535,7 @@
     },
     {
         "title": "ENG 261",
-        "name": "Technology &amp; Mgmt Seminar",
+        "name": "Technology & Mgmt Seminar",
         "description": "Same as BADM 261. See BADM 261.",
         "instructors": [
             "Harrison, I"
@@ -14582,7 +14582,7 @@
     },
     {
         "title": "ENG 471",
-        "name": "Seminar Energy &amp; Sustain Engrg",
+        "name": "Seminar Energy & Sustain Engrg",
         "description": "Challenges of developing energy systems and civil infrastructure that are sustainable in terms of resource availability, security, and environmental impact. Guest lecturers focus on: (i) global challenges -- future energy demand, geologic sources of energy, climate change, energy-water nexus, energy and security; (ii) markets, policies and systems -- economic incentives, policy and law, life cycle analyses; (iii) opportunities for change -- CO2 sequestration, renewable power, bioenergy feedstocks, biofuels for transportation, energy use in buildings, advanced power conversion, the smart grid. 1 undergraduate hour. 1 graduate hour. Prerequisite: MATH 220 or MATH 221; one of CHEM 104, CHEM 204, PHYS 101, PHYS 211. Recommended: NPRE 201.",
         "instructors": [
             "Abelson, J",
@@ -14623,7 +14623,7 @@
     },
     {
         "title": "ENG 571",
-        "name": "Theory Energy &amp; Sustain Engrg",
+        "name": "Theory Energy & Sustain Engrg",
         "description": "Mathematical, scientific, engineering, and economic bases needed to analyze sustainable energy systems and civil infrastructure. Evaluation of current practice and future development of (i) energy extraction and conversion processes from geological, biological, and non-biological resources; (ii) energy usage for transportation, in residential and commercial buildings, and by industry. 3 or 4 graduate hours. No professional credit. Prerequisite: Credit or concurrent registration in ENG 471.",
         "instructors": [
             "Abelson, J",
@@ -14778,7 +14778,7 @@
     },
     {
         "title": "ENGL 122",
-        "name": "Swords, Sorcery &amp; Sex: The Middle Ages in Popular Culture",
+        "name": "Swords, Sorcery & Sex: The Middle Ages in Popular Culture",
         "description": "Explores the use of medievalism in contemporary popular culture. Instructors may draw from film, television, music, fiction, graphic novels, gaming, and other sources, and they approach the material from a variety of cultural, historical, and aesthetic traditions. The goal of the course will be to understand how the medieval periods of world cultures have been reinvented in modern times, and how modernity has been constructed in relation and in opposition to the medieval imaginary. Same as MDVL 122.",
         "instructors": [
             "Basu, A"
@@ -15202,7 +15202,7 @@
     },
     {
         "title": "ENGL 500",
-        "name": "Intro to Criticism &amp; Research",
+        "name": "Intro to Criticism & Research",
         "description": "Introductory course in methods and techniques in research and literary criticism.",
         "instructors": [
             "Gaedtke, A"
@@ -15268,7 +15268,7 @@
     },
     {
         "title": "ENGL 583",
-        "name": "Topics Writ Pedagogy &amp; Design",
+        "name": "Topics Writ Pedagogy & Design",
         "description": "Examines the relationships among writing studies, theories of pedagogy, and the practice of the writing teacher and administrator. Also focuses on particular problems or particular schools of thought. Typical topics include Writing Program Design and Administration; Writing, Thinking, and Problem Solving; The Classroom as a Research Site; Collaborative Learning; and Writing Across the Curriculum and Discourse Communities. Requirements will vary with instructors and topics. Same as CI 566. May be repeated to a maximum of 8 hours. Prerequisite: Graduate standing in writing studies or consent of instructor.",
         "instructors": [
             "Mortensen, P"
@@ -15311,7 +15311,7 @@
     },
     {
         "title": "ENSU 301",
-        "name": "Soc Impacts Weather &amp; Climate",
+        "name": "Soc Impacts Weather & Climate",
         "description": "Same as ATMS 322. See ATMS 322.",
         "instructors": [
             "Pettijohn, J"
@@ -15444,7 +15444,7 @@
     },
     {
         "title": "EOL 550",
-        "name": "Ed Ldrshp &amp; Prof Development",
+        "name": "Ed Ldrshp & Prof Development",
         "description": "Study of major issues on educational leadership and professional development. Examination of research, theories, and practices pertaining to: professional development purposes, content, context, policies, and processes; fostering and sustaining quality professional development; and the roles of teachers, school administrators and policy analysts. Prerequisite: EOL 540 or consent of instructor.",
         "instructors": [
             "Fuller-Hamilton, A",
@@ -15489,7 +15489,7 @@
     },
     {
         "title": "EOL 567",
-        "name": "Program Planning &amp; Evaluation",
+        "name": "Program Planning & Evaluation",
         "description": "Prerequisite: EOL 540 or equivalent or consent of instructor. Open only to persons who have been admitted to doctoral study in the Department of Educational Organization and Leadership.",
         "instructors": [
             "Kucera, M",
@@ -15786,7 +15786,7 @@
     },
     {
         "title": "EPS 531",
-        "name": "Critical Race Theory &amp; Educ",
+        "name": "Critical Race Theory & Educ",
         "description": "Focuses on critical race theory as a critique of racism and the law in U.S. society and discusses its current applications to education policy and research in K-12 schooling and higher education. Also looks at how critical race theory can be used as a methodological lens for policy analaysis and educational research.",
         "instructors": [
             "Dixson, A"
@@ -15794,7 +15794,7 @@
     },
     {
         "title": "EPS 533",
-        "name": "Global Youth &amp; Citizenship",
+        "name": "Global Youth & Citizenship",
         "description": "Discusses youth and citizenship in a global context. Covers the social construction of children and youth, the sociology of global generations, education and social media, and new youth movements in the digital age. Draws on a diversity of case studies from North America, the Middle East and North Africa, sub-Saharan Africa, Europe and Latin America.",
         "instructors": [
             "Herman, T",
@@ -15803,7 +15803,7 @@
     },
     {
         "title": "EPS 536",
-        "name": "Race, Gender &amp; Sexuality Issu",
+        "name": "Race, Gender & Sexuality Issu",
         "description": "Examines contemporary theories of race, gender, class, and sexuality, as well as analyzing how their dynamics play out in U.S. public schooling and history. In an attempt to discuss a range of disciplinary and theoretical approaches to diversity, we will shift among historical, sociological, political, theoretical and pedagogical issues. Traces the place of diversity in forming notions of citizenship, community, identity, and political affiliation/alliance. While two extended examples will focus on the interplay of race, class, and gender in the school-based issues of drop out rates and gendered interactions in the classroom and playground, we will also consider contemporary theories of diversity in local and global contexts. Prerequisite: Acceptance into the Master of Education with an emphasis on Diversity and Equity in Education Program or instructor approval.",
         "instructors": [
             "Hood, D",
@@ -15922,7 +15922,7 @@
     },
     {
         "title": "EPSY 222",
-        "name": "Language &amp; Culture of Deaf Communities",
+        "name": "Language & Culture of Deaf Communities",
         "description": "Same as SHS 222. See SHS 222.",
         "instructors": [
             "Davies Brenier, L"
@@ -16337,7 +16337,7 @@
     },
     {
         "title": "ESE 210",
-        "name": "Social &amp; Environmental Issues",
+        "name": "Social & Environmental Issues",
         "description": "Same as GEOG 210. See GEOG 210.",
         "instructors": [
             "Adovor Tsikudo, A",
@@ -16347,7 +16347,7 @@
     },
     {
         "title": "ESE 289",
-        "name": "Environment &amp; Sustainability Field Study",
+        "name": "Environment & Sustainability Field Study",
         "description": "Group expedition to study environment and sustainability issues at a nearby field site. Includes in-class meetings, student-led presentation, and a field trip that may be short as part of a day or as long as several days. Field trip and field trip fee required. Additional fees may apply. See Class Schedule. Approved for letter and S/U grading. May be repeated in separate terms if topics vary. Prerequisite: For ESE majors, minors, and Sustainability Living Learning Community students. Non majors can apply to the waitlist.",
         "instructors": [
             "Kanter, R",
@@ -16420,7 +16420,7 @@
     },
     {
         "title": "ESL 110",
-        "name": "English Pronunciation &amp; Oral Fluency",
+        "name": "English Pronunciation & Oral Fluency",
         "description": "Designed to improve the international student's ability to speak and understand English at normal conversational speed and to give the student the ability to continue improving pronunciation and oral fluency skills after the course is finished. Focus on the rhythm, stress, intonation, and sounds of natural speech and on fluency building strategies. Approved for S/U grading only. May be repeated in separate terms. Credit is not given toward an undergraduate degree. Prerequisite: Placement based on the speaking section score on the TOEFL or Placement based on English as a Second Language Placement Test (EPT) for undergraduate students without TOEFL or IELTS scores.",
         "instructors": [
             "Faivre, S",
@@ -16537,7 +16537,7 @@
     },
     {
         "title": "ESL 510",
-        "name": "English Pronunciation &amp; Oral Fluency",
+        "name": "English Pronunciation & Oral Fluency",
         "description": "Designed to improve the international student's ability to speak and understand English at normal conversational speed and to give the student the ability to continue improving pronunciation and oral fluency skills after the course is finished. Focus on the rhythm, stress, intonation, and sounds of natural speech and on fluency building strategies. 0 graduate hours. No professional credit. Approved for S/U grading only. May be repeated in separate terms. Credit is not given toward a graduate degree. Prerequisite: Placement based on English as a Second Language Placement Test (EPT) or the speaking section score on TOEFL or IELTS.",
         "instructors": [
             "Faivre, S",
@@ -16866,7 +16866,7 @@
     },
     {
         "title": "FIN 411",
-        "name": "Investment &amp; Portfolio Mngt",
+        "name": "Investment & Portfolio Mngt",
         "description": "Current theories of portfolio management are covered in considerable detail to provide a conceptual framework for the evaluation of investment strategies. Applications and implementation are covered in depth, including performance evaluation and international diversification. 3 undergraduate hours. No graduate credit. Prerequisite: FIN 300.",
         "instructors": [
             "Choi, J",
@@ -17122,7 +17122,7 @@
     },
     {
         "title": "FIN 527",
-        "name": "Mergers &amp; Acquisitions Topics",
+        "name": "Mergers & Acquisitions Topics",
         "description": "This course focuses on identifying ways to increase firm value through mergers and acquisitions (M&A) and corporate restructurings. We will develop your skills in the design and evaluation of transactions. Specific topics addressed in the course are the valuation of companies, structuring of transactions, deal tactics and strategy, valuation of leveraged buyouts, and spin-offs/carve-outs. We will also delve into issues of law, accounting and taxation and how they affect the structuring and outcome of merger transactions. Knowledge about M&A is an important component of any corporate finance professional and is the foundation for effective work in a wide range of fields including corporate development, investment banking, consulting, and advising senior management. 2 graduate hours. No professional credit.",
         "instructors": [
             "Almeida, H"
@@ -17557,7 +17557,7 @@
     },
     {
         "title": "FSHN 101",
-        "name": "Intro Food Science &amp; Nutrition",
+        "name": "Intro Food Science & Nutrition",
         "description": "Discusses the evolution of the food system to meet the needs and desires of a complex, heterogeneous society. Provides an overview of food in relation to nutrition and health, composition and chemistry, microbiology, safety, processing, preservation, laws and regulations, quality, and the consumer.",
         "instructors": [
             "Bohn, D",
@@ -17757,7 +17757,7 @@
     },
     {
         "title": "FSHN 417",
-        "name": "Neuroscience of Eating &amp; Drinking",
+        "name": "Neuroscience of Eating & Drinking",
         "description": "Same as NEUR 417 and PSYC 417. See PSYC 417.",
         "instructors": [
             "Liang, N",
@@ -17774,7 +17774,7 @@
     },
     {
         "title": "FSHN 423",
-        "name": "Advances in Foods &amp; Nutrition",
+        "name": "Advances in Foods & Nutrition",
         "description": "New developments in foods and nutrition; readings, lectures, and discussions. 2 undergraduate hours. 2 graduate hours. Prerequisite: FSHN 220 and FSHN 332, or equivalent.",
         "instructors": [
             ""
@@ -17855,7 +17855,7 @@
     },
     {
         "title": "FSHN 499",
-        "name": "Cur Topics in FS &amp; Human Nutr",
+        "name": "Cur Topics in FS & Human Nutr",
         "description": "Group discussion or an experimental course on a special topic in food science and human nutrition. 1 to 3 undergraduate hours. 1 to 3 graduate hours. May be repeated in the same or subsequent terms to a maximum of 12 hours as topics vary.",
         "instructors": [
             "",
@@ -18091,7 +18091,7 @@
     },
     {
         "title": "GEOG 101",
-        "name": "Global Development&amp;Environment",
+        "name": "Global Development&Environment",
         "description": "Introduces geographical perspectives on environment and development studies with case studies drawn from Africa, Asia, and Latin America. Investigates the origins of the global South in relation to the global North, especially the historical and contemporary processes driving environmental, economic, and cultural change.",
         "instructors": [
             "Adovor Tsikudo, A",
@@ -18138,7 +18138,7 @@
     },
     {
         "title": "GEOG 210",
-        "name": "Social &amp; Environmental Issues",
+        "name": "Social & Environmental Issues",
         "description": "Introduction to the complex relationship between people and the natural environment from a social science perspective. Explores different approaches to environmental issues, and examines the role of population change, political economy, technologies, environmental policymaking, and social institutions in causing and resolving contemporary social and environmental global issues. Same as ESE 210.",
         "instructors": [
             "Adovor Tsikudo, A",
@@ -18177,7 +18177,7 @@
     },
     {
         "title": "GEOG 392",
-        "name": "Geography &amp; GIS Internship",
+        "name": "Geography & GIS Internship",
         "description": "Supervised, off-campus experience in a field directly pertaining to Geography and/or GIS. A written report is required at the end of the internship relating work accomplishments to the student's program of study. Approved for Letter and S/U grading. May be repeated in separate terms up to 6 hours. Prerequisite: Consent of faculty sponsor and Director of Undergraduate Studies; at least two courses taken within Geography & GIS.",
         "instructors": [
             "Kashem, M",
@@ -18202,7 +18202,7 @@
     },
     {
         "title": "GEOG 412",
-        "name": "Geospatial Tech &amp; Society",
+        "name": "Geospatial Tech & Society",
         "description": "Examines the use of geographic information systems (GIS), geographical positioning systems (GPS), and other geospatial technologies in everyday life with emphasis on their implications for social, economic, and environmental change. Topics include critical cartography, GIS, and social theory, crime and health, environmental justice, feminism, economic development and environmental change. 3 undergraduate hours. 3 graduate hours. Prerequisite: GEOG 105 or consent of instructor.",
         "instructors": [
             "Cidell, J",
@@ -18237,7 +18237,7 @@
     },
     {
         "title": "GEOG 473",
-        "name": "Digital Cartography &amp; Map Design",
+        "name": "Digital Cartography & Map Design",
         "description": "Instruction and practice in the basic techniques of map making followed by a consideration of problems involved in the construction of maps for presentation in a reproduced form (i.e., printed, photographed); the selection of proper source materials for the base and body of the map, the compilation and correlation of these materials, and methods of mechanical and photographic reproduction. 4 undergraduate hours. 4 graduate hours.",
         "instructors": [
             "Kashem, M"
@@ -18695,7 +18695,7 @@
     },
     {
         "title": "GER 403",
-        "name": "German-English Translation: Theory &amp; Practice",
+        "name": "German-English Translation: Theory & Practice",
         "description": "Theory and practice of translating technical, commercial, scientific, and literary texts from German into English and vice versa. Same as TRST 403. 3 undergraduate hours. 3 graduate hours. Prerequisite: GER 401 or consent of instructor.",
         "instructors": [
             "Jenkins, R"
@@ -18943,7 +18943,7 @@
     },
     {
         "title": "GLBL 440",
-        "name": "Global Health: Interventions &amp; Evaluations",
+        "name": "Global Health: Interventions & Evaluations",
         "description": "Focuses on the process of crafting a solution and evaluation plan related to a specific global health problem identified by students. Requires students to work in teams to integrate content learning on global health with applied project design skills developed in this course. 3 undergraduate hours. No graduate credit. Prerequisite: GLBL 340. Junior standing or higher required.",
         "instructors": [
             "Bonatti, V"
@@ -18951,7 +18951,7 @@
     },
     {
         "title": "GLBL 481",
-        "name": "Writing on Technol &amp; Security",
+        "name": "Writing on Technol & Security",
         "description": "Same as NPRE 481. See NPRE 481.",
         "instructors": [
             "Roy, W"
@@ -19018,7 +19018,7 @@
     },
     {
         "title": "GRK 201",
-        "name": "Classical &amp; Koine Greek I",
+        "name": "Classical & Koine Greek I",
         "description": "Readings in classical Greek prose, and narrative and epistolary New Testament texts. Same as REL 200.  Prerequisite: GRK 102.",
         "instructors": [
             "Leon Ruiz, D"
@@ -19143,7 +19143,7 @@
     },
     {
         "title": "GWS 100",
-        "name": "Intro Gender &amp; Women's Studies",
+        "name": "Intro Gender & Women's Studies",
         "description": "Interdisciplinary introduction to the study of gender, women, and sexuality. Addresses issues such as social experience, representation and popular culture, femininities and masculinities, family structure, education, employment, economics, literature and the arts, religion, history, and technology. Explores interrelationships of race, ethnicity, sexuality, gender, ability, and age from a transnational perspective. Same as HDFS 140 and SOC 130.",
         "instructors": [
             "Barnes, T",
@@ -19156,7 +19156,7 @@
     },
     {
         "title": "GWS 201",
-        "name": "Race, Gender &amp; Power",
+        "name": "Race, Gender & Power",
         "description": "Presents multiple windows into perceptions and perspectives upon gender, sexuality, power, identity and culture, and their multiple intersections. The concept of race in its many manifestations is used to examine relationships of self to society, state institutions and cultures. By paying greater attention to race and power, nuanced understandings of the way the gender systems are maintained, patrolled and formed will be examined. Topics may include: film, media, technology, culture, religion, identities, sexualities. Same as SOC 201.",
         "instructors": [
             "Leon-Boys, D"
@@ -19188,7 +19188,7 @@
     },
     {
         "title": "GWS 240",
-        "name": "Sex &amp; Gender in Antiquity",
+        "name": "Sex & Gender in Antiquity",
         "description": "Same as CLCV 240 and CWL 262. See CLCV 240.",
         "instructors": [
             "Williams, C"
@@ -19230,7 +19230,7 @@
     },
     {
         "title": "GWS 320",
-        "name": "Gender &amp; Latina/o Migration",
+        "name": "Gender & Latina/o Migration",
         "description": "Same as LLS 320 and SOC 321. See LLS 320.",
         "instructors": [
             "Cacho, L"
@@ -19238,7 +19238,7 @@
     },
     {
         "title": "GWS 340",
-        "name": "Gender, Relationshps &amp; Society",
+        "name": "Gender, Relationshps & Society",
         "description": "Same as HDFS 340 and SOC 322. See HDFS 340.",
         "instructors": [
             "Routon, J"
@@ -19246,7 +19246,7 @@
     },
     {
         "title": "GWS 356",
-        "name": "Sex &amp; Gender in Popular Media",
+        "name": "Sex & Gender in Popular Media",
         "description": "Same as MACS 356. See MACS 356.",
         "instructors": [
             "Valdivia, A"
@@ -19302,7 +19302,7 @@
     },
     {
         "title": "GWS 392",
-        "name": "Chicanas&amp;Latinas: Self&amp;Society",
+        "name": "Chicanas&Latinas: Self&Society",
         "description": "Same as LLS 392 and SOC 392. See LLS 392.",
         "instructors": [
             "Dowling, J"
@@ -19368,7 +19368,7 @@
     },
     {
         "title": "GWS 550",
-        "name": "Feminist Theories &amp; Methods",
+        "name": "Feminist Theories & Methods",
         "description": "Interdisciplinary study in diverse feminist theories and methods produced in and across various disciplines. Contemporary philosophical and theoretical developments in the study of gender to specific histories of class, race, ethnicity, nation and sexuality. Prerequisite: At least one graduate-level humanities course or consent of instructor.",
         "instructors": [
             "Nguyen, M"
@@ -19393,7 +19393,7 @@
     },
     {
         "title": "HDFS 101",
-        "name": "Issues &amp; Careers in HDFS",
+        "name": "Issues & Careers in HDFS",
         "description": "Introduction to career opportunities related to human development and family studies, academic and other preparation for different fields, and emerging issues for practitioners and researchers.",
         "instructors": [
             "Hughes, R",
@@ -19430,7 +19430,7 @@
     },
     {
         "title": "HDFS 140",
-        "name": "Intro Gender &amp; Women's Studies",
+        "name": "Intro Gender & Women's Studies",
         "description": "Same as GWS 100 and SOC 130. See GWS 100.",
         "instructors": [
             "Barnes, T",
@@ -19514,7 +19514,7 @@
     },
     {
         "title": "HDFS 262",
-        "name": "Motor Develop, Growth &amp; Form",
+        "name": "Motor Develop, Growth & Form",
         "description": "Same as KIN 262. See KIN 262.",
         "instructors": [
             "",
@@ -19542,7 +19542,7 @@
     },
     {
         "title": "HDFS 291",
-        "name": "HDFS Career Planning &amp; Preparation",
+        "name": "HDFS Career Planning & Preparation",
         "description": "Overview of job opportunities, graduate, and professional school programs that prepare students for careers in health care, counseling, social work, higher education, policymaking and other fields related to Human Development and Family Studies. Examines types of jobs, graduate and professional opportunities and the preparation they require. Students develop personal job, graduate/professional school preparation plans. Approved for S/U grading only.",
         "instructors": [
             "Hughes, R",
@@ -19575,7 +19575,7 @@
     },
     {
         "title": "HDFS 301",
-        "name": "Infancy &amp; Early Childhood",
+        "name": "Infancy & Early Childhood",
         "description": "Reviews development during the first five years of life, including cognitive, social, and biological aspects of early development; includes first-hand observation of young children to supplement and extend lecture material. Prerequisite: HDFS 105 or PSYC 216.",
         "instructors": [
             "McBride, B"
@@ -19591,7 +19591,7 @@
     },
     {
         "title": "HDFS 340",
-        "name": "Gender, Relationshps &amp; Society",
+        "name": "Gender, Relationshps & Society",
         "description": "Explores the production of gender through social interaction within families and other specific interpersonal and institutional relationships that change over time. Gender is also linked to race, class, ability, and sexuality. Same as GWS 340 and SOC 322. Prerequisite: HDFS 105 or SOC 100.",
         "instructors": [
             "Routon, J"
@@ -20047,7 +20047,7 @@
     },
     {
         "title": "HIST 290",
-        "name": "Religion, Violence &amp; America",
+        "name": "Religion, Violence & America",
         "description": "Same as REL 236. See REL 236.",
         "instructors": [
             "Ebel, J"
@@ -20080,7 +20080,7 @@
     },
     {
         "title": "HIST 347",
-        "name": "Protestant &amp; Catholic Refs",
+        "name": "Protestant & Catholic Refs",
         "description": "New sources of secular power and spiritual authority define the age of the Protestant and Catholic Reformations. In this advanced European history course students expand their knowledge of the people, events, and ideas of the fifteenth and sixteenth centuries while deepening their understanding of a wide range of primary sources created by theologians and peasants, nuns and monarchs, and artists and rebels. Key works by Luther, Calvin, and Loyola are placed in their intellectual and social contexts. Same as REL 347.",
         "instructors": [
             "Koslofsky, C"
@@ -20112,7 +20112,7 @@
     },
     {
         "title": "HIST 365",
-        "name": "Fict &amp; Historical Imagination",
+        "name": "Fict & Historical Imagination",
         "description": "Explores the relationship between history and fiction by focusing on specific cultural locations.",
         "instructors": [
             "Allen, R"
@@ -20552,7 +20552,7 @@
     },
     {
         "title": "HUM 110",
-        "name": "Introduction to the Humanities I: Philosophy &amp; Art History",
+        "name": "Introduction to the Humanities I: Philosophy & Art History",
         "description": "A foundation course in the humanities for adult learners in the Odyssey program. Team-taught by faculty in Philosophy and Art History, it focuses on close, attentive, and critical readings of key texts and images drawn from the history of the Western tradition, presented in chronological order. The course engages beginning students in the distinctive disciplinary forms of philosophical and art historical inquiry, and provides academic skill building, critical thinking, and writing. Approved for Letter and S/U grading. Prerequisite: Restricted to adult students in the Odyssey program.",
         "instructors": [
             "Lucero, J",
@@ -20680,7 +20680,7 @@
     },
     {
         "title": "IB 150",
-        "name": "Organismal &amp; Evolutionary Biol",
+        "name": "Organismal & Evolutionary Biol",
         "description": "Introduction to physiology, genetics, and evolution of organisms, and their ecology and diversity.",
         "instructors": [
             "Clegg, B",
@@ -20702,7 +20702,7 @@
     },
     {
         "title": "IB 151",
-        "name": "Organismal &amp; Evol Biol Lab",
+        "name": "Organismal & Evol Biol Lab",
         "description": "Topics follow lecture topics in IB 150 and include labs in ecology, plant and animal function, and genetics and evolution. Designed for non-majors needing a year of biology with lab. Credit is not given for IB 151 for Integrative Biology or Molecular and Cellular Biology majors. Prerequisite: Credit or concurrent registration in IB 150.",
         "instructors": [
             "Cameron, S",
@@ -20760,7 +20760,7 @@
     },
     {
         "title": "IB 270",
-        "name": "Evolution of Molecules &amp; Cells",
+        "name": "Evolution of Molecules & Cells",
         "description": "The major evolutionary transitions of biomolecules and cells including: energy acquisition and metabolism; information inheritance, system regulation, and genomes; the origin of life and of the prokaryotic cell, eukaryotic cell, and multicellularity. Lecture and laboratory. Credit is not given for both IB 270 and either MCB 250 or MCB 252. Prerequisite: Admission to the IB honors biology option; credit or concurrent registration in organic chemistry.",
         "instructors": [
             "",
@@ -21021,7 +21021,7 @@
     },
     {
         "title": "IB 546",
-        "name": "Topics in Ecology &amp; Evolution",
+        "name": "Topics in Ecology & Evolution",
         "description": "Speaker seminar series featuring discussion, review and critical analysis of general concepts and specific problems in ecology and evolution. Approved for both letter and S/U grading. May be repeated.",
         "instructors": [
             "Fuller, B",
@@ -21088,7 +21088,7 @@
     },
     {
         "title": "IE 400",
-        "name": "Design &amp; Anlys of Experiments",
+        "name": "Design & Anlys of Experiments",
         "description": "Concepts and methods of design of experiments for quality design, improvement and control. Simple comparative experiments, including concepts of randomization and blocking, and analysis of variance techniques; factorial and fractional factorial designs; Taguchi's concepts and methods; second-order designs; response surface methodology. Engineering applications and case studies. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: IE 300.",
         "instructors": [
             "Chronopoulou, A"
@@ -21104,7 +21104,7 @@
     },
     {
         "title": "IE 410",
-        "name": "Advanced Topics in Stochastic Processes &amp; Applications",
+        "name": "Advanced Topics in Stochastic Processes & Applications",
         "description": "Modeling and analysis of stochastic processes. Transient and steady-state behavior of continuous-time Markov chains; renewal processes; models of queuing systems (birth-and-death models, embedded-Markov-chain models, queuing networks); reliability models; inventory models. Familiarity with discrete-time Markov chains, Poisson processes, and birth-and-death processes is assumed. Same as CS 481. 3 undergraduate hours. 4 graduate hours. Prerequisite: IE 310.",
         "instructors": [
             "Jacobson, S"
@@ -21177,7 +21177,7 @@
     },
     {
         "title": "IE 529",
-        "name": "Stats of Big Data &amp; Clustering",
+        "name": "Stats of Big Data & Clustering",
         "description": "This course will cover various foundational topics in data science. Parametric and non-parametric methods. Hypothesis testing; Regression; Classification; Dimension reduction; and Regularization. Unsupervised and semi-supervised learning, along with a few case studies. 4 graduate hours. No professional credit. Prerequisite: MATH 415 and IE 300 or equivalent. All ISE graduate students and students enrolled in the Master of Science in Advanced Analytics (MSAA) are eligible to take the course.",
         "instructors": [
             "Beck, C"
@@ -21339,7 +21339,7 @@
     },
     {
         "title": "INFO 326",
-        "name": "New Media, Culture &amp; Society",
+        "name": "New Media, Culture & Society",
         "description": "Same as MACS 326. See MACS 326.",
         "instructors": [
             "Hay, J"
@@ -21613,7 +21613,7 @@
     },
     {
         "title": "IS 505",
-        "name": "Administration &amp; Management of Libraries and Information Centers",
+        "name": "Administration & Management of Libraries and Information Centers",
         "description": "Designed to explore the principles that govern how organizations and institutions work, this course provides a foundation for and introduction to the theories, practices and procedures involved in the management and administration of libraries and information centers. 4 graduate hours. No professional credit.",
         "instructors": [
             "Bonn, M",
@@ -21698,7 +21698,7 @@
     },
     {
         "title": "IS 532",
-        "name": "Theory &amp; Practice of Data Cleaning",
+        "name": "Theory & Practice of Data Cleaning",
         "description": "Data cleaning (also: cleansing) is the process of assessing and improving data quality for later analysis and use, and is a crucial part of data curation and analysis. This course identifies data quality issues throughout the data lifecycle, and reviews specific techniques and approaches for checking and improving data quality. Techniques are drawn primarily from the database community, using schema-level and instance-level information, and from different scientific communities, which are developing practical tools for data pre-processing and cleaning. Same as CS 513. 4 graduate hours. No professional credit.",
         "instructors": [
             "Ludaescher, B"
@@ -21706,7 +21706,7 @@
     },
     {
         "title": "IS 538",
-        "name": "Competitive Intelligence &amp; Knowledge Management",
+        "name": "Competitive Intelligence & Knowledge Management",
         "description": "This course examines two of the most popular practices of business research: Competitive Intelligence (CI) & Knowledge Management (KM). This course provides theoretical foundations and conceptual framework of CI & KM, as students acquire skills in translating research data into actionable intelligence and managing organizations' intellectual capital systematically. This course will introduce concepts of strategic analyses of businesses, and students will also explore key KM technologies widely used in the industry. 4 graduate hours. No professional credit.",
         "instructors": [
             "Hart, J"
@@ -21792,7 +21792,7 @@
     },
     {
         "title": "IS 562",
-        "name": "Metadata in Theory &amp; Practice",
+        "name": "Metadata in Theory & Practice",
         "description": "Combines theoretical examination of the design of metadata schema with their practical application in a variety of settings. Hands-on experience in the creation of descriptive, administrative, and structural metadata, along with their application in systems such as OAI harvesting, OpenURL resolution systems, metasearch systems and digital repositories, will help students develop a thorough understanding of current metadata standards as well as such issues as crosswalking, metadata schema, metadata's use in information retrieval and data management applications, and the role of standards bodies in metadata schema development. 4 graduate hours. No professional credit. Prerequisite: IS 501 or consent of instructor.",
         "instructors": [
             "Bettivia, R",
@@ -22023,7 +22023,7 @@
     },
     {
         "title": "ITAL 240",
-        "name": "Italy Middle Ages &amp; Renaiss",
+        "name": "Italy Middle Ages & Renaiss",
         "description": "The development of Medieval Italian civilization in a literary context from the Sicilian School of love poetry to the early Renaissance in Florence; lectures and readings are in English. Same as CWL 240 and MDVL 240.",
         "instructors": [
             "Stoppino, E"
@@ -22227,7 +22227,7 @@
     },
     {
         "title": "JOUR 250",
-        "name": "Journalism Ethics &amp; Diversity",
+        "name": "Journalism Ethics & Diversity",
         "description": "Focuses on media decision-making and news judgment, specifically ethics and diversity in newsgathering with regard to scope, privacy, bias, economic concerns, and accountability. Examines real-life news decisions and the thoughts of journalists who lived through famous and infamous ethics situations. Key provisions in the Society of Professional Journalists Code of Ethics regarding use of diverse voices will be discussed and applied in practical ways, and both students and the instructor will find current examples of ethics issues to present to the class. Diversity education is part of the required standard for achieving journalism accreditation from the discipline's national accrediting body.",
         "instructors": [
             "Johnson, B",
@@ -22270,7 +22270,7 @@
     },
     {
         "title": "JOUR 340",
-        "name": "Video Reporting &amp; Storytelling",
+        "name": "Video Reporting & Storytelling",
         "description": "Introduces news studio and field production and principles of field reporting and editing of news video; principles of planning, producing, and directing news and public affairs programs. Credit is not given for JOUR 340 if credit for JOUR 440 has been earned. Prerequisite: JOUR 210.",
         "instructors": [
             "Erdey, K",
@@ -22401,7 +22401,7 @@
     },
     {
         "title": "JS 108",
-        "name": "Religion &amp; Society in West I",
+        "name": "Religion & Society in West I",
         "description": "Same as ANTH 108, PHIL 108, and REL 108. See REL 108.",
         "instructors": [
             "Rosenstock, B"
@@ -22564,7 +22564,7 @@
     },
     {
         "title": "KIN 125",
-        "name": "Orientation KIN &amp; Comm Health",
+        "name": "Orientation KIN & Comm Health",
         "description": "Serves as an introduction to the Kinesiology and Community Health Department and provides an overview of the Kinesiology and Community Health curricula, areas of study, and opportunities available for a career in the field. Enrollment required for Kinesiology freshmen and transfer students. Credit is not given for both KIN 125 and CHLH 125.",
         "instructors": [
             "Meinert, C",
@@ -22658,7 +22658,7 @@
     },
     {
         "title": "KIN 249",
-        "name": "Sport &amp; Modern Society",
+        "name": "Sport & Modern Society",
         "description": "The sociological analysis of sport in modern societies with regard to social class, politics, community, education, and collective behavior.",
         "instructors": [
             "Guzman, J",
@@ -22690,7 +22690,7 @@
     },
     {
         "title": "KIN 262",
-        "name": "Motor Develop, Growth &amp; Form",
+        "name": "Motor Develop, Growth & Form",
         "description": "Examination of the concepts of motor development, physical growth, and body form throughout the lifespan. Major emphasis is on the period of birth through adolescence. Same as HDFS 262.",
         "instructors": [
             "Skonieczny, M",
@@ -22711,7 +22711,7 @@
     },
     {
         "title": "KIN 340",
-        "name": "Soc &amp; Psych of Phys Activity",
+        "name": "Soc & Psych of Phys Activity",
         "description": "Discusses how social and psychological processes and constraints affect human action in physical activity environments. Attention is given to socialization, personal dynamics, stratification, and ideological and economic constraints upon the manifestations of physical activity. Prerequisite: KIN 140 or PSYC 100 and completion of the Campus Composition I general education requirement.",
         "instructors": [
             "Petruzzello, S",
@@ -22778,7 +22778,7 @@
     },
     {
         "title": "KIN 375",
-        "name": "Comm Partners &amp; Health",
+        "name": "Comm Partners & Health",
         "description": "Same as AHS 375 and SHS 375. See SHS 375.",
         "instructors": [
             "Bishop, D",
@@ -22795,7 +22795,7 @@
     },
     {
         "title": "KIN 386",
-        "name": "Exercise Instruction &amp; Elderly",
+        "name": "Exercise Instruction & Elderly",
         "description": "This course is designed to offer practical experience opportunities to undergraduate Kinesiology students aspiring to work in applied exercise fields with a diverse aged population. It will entail extensive \"on the job\" training through the Lifetime Fitness Program, an older adult service program of the Department of Kinesiology. Additionally, students will gain training in current program management practicies. May be repeated to a maximum of 6 hours. Prerequisite: KIN 352 or consent of instructor is required. A current CPR is required at the beginning of the term and certification must remain current.",
         "instructors": [
             ""
@@ -22835,7 +22835,7 @@
     },
     {
         "title": "KIN 401",
-        "name": "Measure &amp; Eval in Kinesiology",
+        "name": "Measure & Eval in Kinesiology",
         "description": "Examines the concepts of observation, measurement, and evaluation of human motor performance and functioning in physical activity contexts. 3 undergraduate hours. 4 graduate hours. Prerequisite: KIN 140 and KIN 150, or graduate standing, or consent of instructor.",
         "instructors": [
             "Chen, Z",
@@ -22844,7 +22844,7 @@
     },
     {
         "title": "KIN 448",
-        "name": "Exercise &amp; Health Psychology",
+        "name": "Exercise & Health Psychology",
         "description": "Examines the psychological determinants and consequences of exercise and physical activity as a health promoting behavioral process. Same as CHLH 448. 3 undergraduate hours. 4 graduate hours. Prerequisite: Junior standing or above, or graduate standing, or consent of instructor.",
         "instructors": [
             "Gothe, N"
@@ -22860,7 +22860,7 @@
     },
     {
         "title": "KIN 457",
-        "name": "Motor Learning &amp; Control",
+        "name": "Motor Learning & Control",
         "description": "Discussion and analysis of scientific principles related to the learning and control of motor skills; review of related literature and research in motor learning and control. The focus of the course is on mechanisms for the control of movement and recent theories of how movements are acquired and performed. 3 undergraduate hours. 4 graduate hours. Prerequisite: KIN 257 or graduate standing or consent of instructor.",
         "instructors": [
             "Hernandez, M"
@@ -22868,7 +22868,7 @@
     },
     {
         "title": "KIN 460",
-        "name": "Technology &amp; Pedagogical KINES",
+        "name": "Technology & Pedagogical KINES",
         "description": "Promotes mastery of technology skills and complex computer applications through the analysis of research and critical issues related to technology in Kinesiology. The completion of technology modules, requiring problem solving and the collection and analysis of assessment data, will culminate in an interactive, multimedia project. 3 undergraduate hours. 4 graduate hours. Prerequisite: Junior standing.",
         "instructors": [
             "Wei, M"
@@ -22905,7 +22905,7 @@
     },
     {
         "title": "KIN 543",
-        "name": "Physical Activity &amp; Cognition",
+        "name": "Physical Activity & Cognition",
         "description": "Examines the relationship between physical activity and fitness on brain and cognition across the lifespan. The psychobiology of physical activity effects on cognition is emphasized. Other areas of study include aging, development, and psychosocial factors. Methodological issues as well as human and animal models of research will be studied.",
         "instructors": [
             "Khan, N"
@@ -23068,7 +23068,7 @@
     },
     {
         "title": "LA 335",
-        "name": "Community &amp; Open Space Studio",
+        "name": "Community & Open Space Studio",
         "description": "Development of design solutions at site and master plan scale relative to community, urban and open space problems; emphasizes development of analysis and design techniques to integrate physical context of place with social context. Field trip required. Additional fees may apply. See Class Schedule. Prerequisite: LA 234 or consent of instructor.",
         "instructors": [
             "Bartlett, T"
@@ -23147,7 +23147,7 @@
     },
     {
         "title": "LA 501",
-        "name": "Landscape Arch Theory &amp; Prac",
+        "name": "Landscape Arch Theory & Prac",
         "description": "Seminar to introduce the discipline, profession, and practice of landscape architecture. Emphasis is on understanding the skills and knowledge base of the profession including environmental, social, and historical factors in design.",
         "instructors": [
             "Thomas, J"
@@ -23163,7 +23163,7 @@
     },
     {
         "title": "LA 537",
-        "name": "Landscape Plan &amp; Design Studio",
+        "name": "Landscape Plan & Design Studio",
         "description": "Ecological design and planning studio emphasizing design that reflects evaluation and integration of human and environmental research results. Detailed investigation of design options. Additional fees may apply. See Class Schedule. Prerequisite: LA 441 and LA 450, or consent of instructor.",
         "instructors": [
             "Deal, B",
@@ -23286,7 +23286,7 @@
     },
     {
         "title": "LAS 399",
-        "name": "Leadership &amp; Professional Development",
+        "name": "Leadership & Professional Development",
         "description": "Leadership and professional development seminar for student interns. Interns will learn teaching, mentoring, leadership and professional skills that will enable them to lead a section of an LAS transition course or experience and share their successful academic experiences with undergraduate students who are new to the University. Interns will help their students develop the skills necessary to succeed at the U of I. May be repeated in separate terms to a maximum of 6 hours. Prerequisite: Instructor approval required.",
         "instructors": [
             "Brown, C",
@@ -23593,7 +23593,7 @@
     },
     {
         "title": "LAW 609",
-        "name": "Legal Writing &amp; Analysis",
+        "name": "Legal Writing & Analysis",
         "description": "Emphasis on development and improvement of skills in legal writing, and training in legal bibliography. Assignments may include brief writing and preparation of legal memoranda and opinions. 3 graduate hours. 2 professional hours.",
         "instructors": [
             "Anderson, S",
@@ -23674,7 +23674,7 @@
     },
     {
         "title": "LAW 643",
-        "name": "Trademark &amp; Unfair Competition",
+        "name": "Trademark & Unfair Competition",
         "description": "Course introduces basic legal concepts relating to statutory and common-law trademark, interference with contractual relations and trade libel, the federalization of unfair competition law, and the role of the Federal Trade Commission in consumer protection activities. 4 graduate hours. 3 professional hours.",
         "instructors": [
             "Maggs, P"
@@ -24140,7 +24140,7 @@
     },
     {
         "title": "LER 569",
-        "name": "Power &amp; Influence in HRM",
+        "name": "Power & Influence in HRM",
         "description": "Designed to help prospective human resource managers learn how to use power and influence as effective tools for understanding the surroundings in which they will be working with and managing people, and achieving the goals that they set for themselves. It provides frameworks and practical tools that allow students to make sense of on-the-job learning experiences and equip them with basic diagnostic and action-planning skills that they can use at different points in their careers - and to consider difficult ethical questions in the process. Prepares students to get things done in the real world, where personalities and office politics sometimes hinder rather than help them.",
         "instructors": [
             "Benton, R"
@@ -24340,7 +24340,7 @@
     },
     {
         "title": "LING 270",
-        "name": "Language, Technology &amp; Society",
+        "name": "Language, Technology & Society",
         "description": "What technologies have humans developed to augment the quintessential human ability: language? We start with the development of writing, the first technology that was specifically designed for language, and trace its history through the invention of printing, and into the digital age. With the advent of computers the relevance of language for technology has broadened significantly. We review technologies such as automatic speech recognition, speech synthesis and automatic translation, and discuss their implications for present and future human-machine interaction. Prerequisite: LING 100 or consent of instructor.",
         "instructors": [
             "Dell, B",
@@ -24365,7 +24365,7 @@
     },
     {
         "title": "LING 300",
-        "name": "Anat &amp; Physiol Spch Mechanism",
+        "name": "Anat & Physiol Spch Mechanism",
         "description": "Same as SHS 300. See SHS 300.",
         "instructors": [
             "Ishikawa, K"
@@ -24384,7 +24384,7 @@
     },
     {
         "title": "LING 307",
-        "name": "Elmnts Semantics &amp; Pragmatics",
+        "name": "Elmnts Semantics & Pragmatics",
         "description": "Introduction to the theory of meaning for natural language, including techniques for the description of lexical meaning, compositional determination of phrase and sentence meaning, and pragmatic effects on interpretation in context. Same as PHIL 307. Prerequisite: LING 100 or consent of instructor.",
         "instructors": [
             "Norman, C",
@@ -24431,7 +24431,7 @@
     },
     {
         "title": "LING 402",
-        "name": "Tools &amp; Tech Spch &amp; Lang Proc",
+        "name": "Tools & Tech Spch & Lang Proc",
         "description": "Introduction to aspects of the tools and methods of studies in speech and natural language processing (NLP), with a focus on programming for NLP and speech applications, statistical methods for data analysis, and tools for displaying and manipulating speech data. 3 undergraduate hours. 3 graduate hours.",
         "instructors": [
             "Adams, C",
@@ -24620,7 +24620,7 @@
     },
     {
         "title": "LLS 201",
-        "name": "US Racial &amp; Ethnic Politics",
+        "name": "US Racial & Ethnic Politics",
         "description": "Same as AAS 201, AFRO 201, and PS 201. See PS 201.",
         "instructors": [
             "Khan, A",
@@ -24657,7 +24657,7 @@
     },
     {
         "title": "LLS 246",
-        "name": "Gender &amp; Sexuality in Latina/o Literature",
+        "name": "Gender & Sexuality in Latina/o Literature",
         "description": "Same as SPAN 246. See SPAN 246.",
         "instructors": [
             "Cervantes, V"
@@ -24707,7 +24707,7 @@
     },
     {
         "title": "LLS 320",
-        "name": "Gender &amp; Latina/o Migration",
+        "name": "Gender & Latina/o Migration",
         "description": "Study of the gendered social process of international immigration, focusing on Latin American migration to the United States.  Established theories of migration, the history of international immigration to the U.S., and historical and contemporary Mexico, Caribbean and Central American migration flows will be discussed in great detail. Primary focus on how gender shapes the migration experiences of immigrants and the gendered impact of migration on the economic, political, and social status of individuals. Same as SOC 321 and GWS 320. Prerequisite: LLS 100 or SOC 100.",
         "instructors": [
             "Cacho, L"
@@ -24755,7 +24755,7 @@
     },
     {
         "title": "LLS 392",
-        "name": "Chicanas&amp;Latinas: Self&amp;Society",
+        "name": "Chicanas&Latinas: Self&Society",
         "description": "Explores the experiences of Chicanas and Latinas through the lens of contemporary sociological research. Topics to be discussed include: community formation and activism, Chicana/Latina feminisms, sexuality, religion, health, family, immigration, education, work, media, and artistic expression. Readings emphasize the link between the structural inequalities of society, and the day-to-day lived experiences of Chicana/Latinas. Same as GWS 392 and SOC 392. Prerequisite: Any 100, 200, or 300-level LLS, GWS, or SOC course.",
         "instructors": [
             "Dowling, J"
@@ -24773,7 +24773,7 @@
     },
     {
         "title": "LLS 473",
-        "name": "Immigration, Health &amp; Society",
+        "name": "Immigration, Health & Society",
         "description": "This interdisciplinary seminar examines the social determinants of US racial and ethnic health inequalities through the lens of (im)migration. Topics to be addressed include: conceptualizations of race and ethnicity, immigrant-adaptation theories, discrimination, place, and the intersections of race, ethnicity, poverty, immigration, gender and health. Same as CHLH 473, SOC 473, and SOCW 473. 3 undergraduate hours. 4 graduate hours.",
         "instructors": [
             "Viruell-Fuentes, E"
@@ -24822,7 +24822,7 @@
     },
     {
         "title": "MACS 100",
-        "name": "Intro to Popular TV &amp; Movies",
+        "name": "Intro to Popular TV & Movies",
         "description": "The goal of this course is for students to begin to develop a critical understanding of the role of popular movies and television in their own lives and in U.S. culture.  The course looks at issues of the relationship of media to social violence, gender identities, sexual identities, adolescents, minority cultures, and the role of the U.S. media globally. It also considers some of the major media genres that characterize U.S. popular television and movies.",
         "instructors": [
             "Rojas Alvarez, J",
@@ -24985,7 +24985,7 @@
     },
     {
         "title": "MACS 326",
-        "name": "New Media, Culture &amp; Society",
+        "name": "New Media, Culture & Society",
         "description": "Digital media is an immensely pervasive and powerful form of communication that despite its rapid growth has yet to reach most of the world's population. This lecture-based survey course for undergraduates traces the history and formation of personal computing and the Internet, the development of virtual communities and virtual worlds, evolving forms of digital representation and communication, digital visual cultures, features of new media industries, and the rise of participatory media. Evaluation and assessment is based on written exams, quizzes, class discussion in section, and practice-based assignments using new media technologies such as wikis, blogs, games, and digital video. Emphasis is on mastering key concepts of digital media through theory and history, and on critical discussion of distinctive features of digital media objects. Lectures and discussion sections are held in computer-equipped classrooms. Same as INFO 326.",
         "instructors": [
             "Hay, J"
@@ -25001,7 +25001,7 @@
     },
     {
         "title": "MACS 356",
-        "name": "Sex &amp; Gender in Popular Media",
+        "name": "Sex & Gender in Popular Media",
         "description": "Examines the notion that the mass media influence our development as gendered individuals, looking at those who argue for and against this notion. Considers different forms of feminist theory applied to the study of mass media, the history and scholarly criticisms of the media and their portrayal of women, and feminist attempts to create alternatives to mainstream media images. Throughout, the course considers representation of minorities in the dominant media and examines newly created alternative representations. Same as GWS 356.",
         "instructors": [
             "Valdivia, A"
@@ -25695,7 +25695,7 @@
     },
     {
         "title": "MATH 489",
-        "name": "Dynamics &amp; Differential Eqns",
+        "name": "Dynamics & Differential Eqns",
         "description": "Studies mathematical theory of dynamical systems, emphasizing both discrete-time dynamics and nonlinear systems of differential equations. Topics include: chaos, fractals, attractors, bifurcations, with application to areas such as population biology, fluid dynamics and classical physics. Basic knowledge of matrix theory will be assumed. 3 or 4 undergraduate hours. 3 or 4 graduate hours. 4 hours of credit requires approval of the instructor and completion of additional work of substance. Prerequisite: One of MATH 284, MATH 285, MATH 286, MATH 441.",
         "instructors": [
             "Kirr, E",
@@ -25746,7 +25746,7 @@
     },
     {
         "title": "MATH 510",
-        "name": "Riemann Surf &amp; Algebraic Curv",
+        "name": "Riemann Surf & Algebraic Curv",
         "description": "An introduction to Riemann Surfaces from both the algebraic and function-theoretic points of view. Topics include holomorphic and meromorphic differential forms, integration of differential forms, divisors and linear equivalence, the genus of a compact Riemann surface, projective algebraic curves, the Riemann-Roch theorem, and applications. Prerequisite: MATH 542.",
         "instructors": [
             "Pascaleff, J"
@@ -25979,7 +25979,7 @@
     },
     {
         "title": "MBA 543",
-        "name": "Digital Media &amp; Marketing",
+        "name": "Digital Media & Marketing",
         "description": "Aims to give students ample understanding of the critical role of digital media as the delivery channels of marketing communication and the impacts of digital revolution in marketing and the rise of marketing technology industry, through interaction with the instructor, the content, and other students in the course. 4 graduate hours. No professional credit. Credit is not given for both MBA 543 and BADM 590, Digital Media & Marketing.",
         "instructors": [
             "Yao, M"
@@ -26061,7 +26061,7 @@
     },
     {
         "title": "MCB 150",
-        "name": "Molec &amp; Cellular Basis of Life",
+        "name": "Molec & Cellular Basis of Life",
         "description": "Introductory course focusing on the basic structure, metabolic, and molecular processes (including membranes, energy metabolism, genes) common to all cells. Emphasis on unique properties that differentiate the major sub-groups of organisms (Archaea, Bacteria, plants, and animals), and will discuss how cells are integrated into tissues and organs in multicellular organisms.",
         "instructors": [
             "Farley, K",
@@ -26079,7 +26079,7 @@
     },
     {
         "title": "MCB 151",
-        "name": "Molec &amp; Cellular Laboratory",
+        "name": "Molec & Cellular Laboratory",
         "description": "Introductory laboratory course focusing on basic techniques in molecular and cellular biology. Credit is not given for MCB 151 for students majoring in Molecular and Cellular Biology, or Integrative Biology; Credit is not given for both MCB 151 and MCB 251. Prerequisite: Concurrent enrollment in MCB 150.",
         "instructors": [
             "Cintora, P",
@@ -26123,7 +26123,7 @@
     },
     {
         "title": "MCB 244",
-        "name": "Human Anatomy &amp; Physiology I",
+        "name": "Human Anatomy & Physiology I",
         "description": "Organ system biology with an emphasis on normal human anatomy and physiology, physiological processes and associated disease processes of the following systems; skeletal, muscle, nervous, sensory, and endocrine. Prerequisite: Credit or concurrent enrollment in CHEM 101, CHEM 102, or equivalent; or consent of instructor.",
         "instructors": [
             "Brown, C",
@@ -26132,7 +26132,7 @@
     },
     {
         "title": "MCB 245",
-        "name": "Human Anat &amp; Physiol Lab I",
+        "name": "Human Anat & Physiol Lab I",
         "description": "Laboratory exploration of normal human anatomy and physiology and relevant disease processes for the following systems: tissue, skeletal, nervous, muscular, sensory, and endocrine. Previously dissected human cadavers are an important part of the learning experience in this course, but students will not dissect human cadavers. Neither animal dissection or animal use are elements of this course. Prerequisite: Credit or concurrent enrollment in CHEM 101, CHEM 102, or equivalent; or consent of instructor.",
         "instructors": [
             "Swigart, J",
@@ -26188,7 +26188,7 @@
     },
     {
         "title": "MCB 252",
-        "name": "Cells, Tissues &amp; Development",
+        "name": "Cells, Tissues & Development",
         "description": "Functional organization and physiology of cells and tissues, including cellular signaling, cellular interactions, and developmental processes. Students who enter the University Fall 2011 or later are responsible for additional course-based tuition of $300 unless they are already paying differential tuition during the term of course enrollment.  Additional fees may apply. See Class Schedule. Prerequisite: MCB 250 or equivalent with consent of instructor.",
         "instructors": [
             "Good, E",
@@ -26299,7 +26299,7 @@
     },
     {
         "title": "MCB 354",
-        "name": "Biochem &amp; Phys Basis of Life",
+        "name": "Biochem & Phys Basis of Life",
         "description": "Introduction to biochemistry and structural biology emphasizing the physical and chemical properties of macromolecules. Credit is not given for both MCB 354 and MCB 450. Prerequisite: CHEM 232 or CHEM 236, and MCB 250 and MCB 252, or consent of instructor.",
         "instructors": [
             "Modi, N",
@@ -26330,7 +26330,7 @@
     },
     {
         "title": "MCB 401",
-        "name": "Cell &amp; Membrane Physiology",
+        "name": "Cell & Membrane Physiology",
         "description": "Foundational principles of cellular physiology. Topics include solute/water transport, membrane bio electricity, action potentials, ion channel physiology, neuromuscular transmission, muscle physiology, and central neurophysiology and plasticity. 3 undergraduate hours. 3 graduate hours. Prerequisite: MCB 252 or consent of instructor.",
         "instructors": [
             "Christian, C"
@@ -26357,7 +26357,7 @@
     },
     {
         "title": "MCB 433",
-        "name": "Virology &amp; Viral Pathogenesis",
+        "name": "Virology & Viral Pathogenesis",
         "description": "Same as PATH 433. See PATH 433.",
         "instructors": [
             "Rock, D"
@@ -26392,7 +26392,7 @@
     },
     {
         "title": "MCB 461",
-        "name": "Cell &amp; Molecular Neuroscience",
+        "name": "Cell & Molecular Neuroscience",
         "description": "Designed as an in-depth foundation course for graduate and undergraduate students with strong neuroscience interests. Covers up-to-date cellular and molecular neurobiology (including basic principles of neuronal function, signaling, and plasticity) and introductory brain anatomy that underlie brain function and animal behaviors. Pathogenic mechanisms of neurological diseases and disorders from the latest research will be heavily explored. Same as NEUR 461. 3 undergraduate hours. 3 graduate hours. Prerequisite: MCB 252, MCB 250 or equivalent, or consent of instructor. May be taken concurrently with MCB 462.",
         "instructors": [
             "Chung, H",
@@ -26491,7 +26491,7 @@
     },
     {
         "title": "MCB 580",
-        "name": "Res Ethics &amp; Responsibilities",
+        "name": "Res Ethics & Responsibilities",
         "description": "Lecture/discussion course focusing on research ethics and a variety of related issues that can influence success in graduate school in the biological sciences, including scientific integrity and compliance with regulations for laboratory research. Approved for letter and S/U grading. Prerequisite: Consent of instructor.",
         "instructors": [
             "Imlay, J",
@@ -26601,7 +26601,7 @@
     },
     {
         "title": "MDVL 122",
-        "name": "Swords, Sorcery &amp; Sex: The Middle Ages in Popular Culture",
+        "name": "Swords, Sorcery & Sex: The Middle Ages in Popular Culture",
         "description": "Same as ENGL 122. See ENGL 122.",
         "instructors": [
             "Basu, A"
@@ -26618,7 +26618,7 @@
     },
     {
         "title": "MDVL 240",
-        "name": "Italy Middle Ages &amp; Renaiss",
+        "name": "Italy Middle Ages & Renaiss",
         "description": "Same as CWL 240 and ITAL 240. See ITAL 240.",
         "instructors": [
             "Stoppino, E"
@@ -26883,7 +26883,7 @@
     },
     {
         "title": "ME 411",
-        "name": "Viscous Flow &amp; Heat Transfer",
+        "name": "Viscous Flow & Heat Transfer",
         "description": "Same as AE 412. See AE 412.",
         "instructors": [
             "Brewster, M"
@@ -26976,7 +26976,7 @@
     },
     {
         "title": "ME 487",
-        "name": "MEMS-NEMS Theory &amp; Fabrication",
+        "name": "MEMS-NEMS Theory & Fabrication",
         "description": "Physical and chemical theory, design, and hands-on fabrication of micro- and nano-electromechanical systems (MEMS and NEMS); cleanroom fabrication theory, including general cleanroom safety, lithography, additive and subtractive processes, bulk and surface micromachining, deep reactive ion etching (DRIE), lithographic Galvanoformung Abformung (LIGA), packaging, scaling, actuators, and micro-nanofluids; fabrication of two take-home devices, such as piezoresistive sensors and microfluidic logic chips, that demonstrate advanced fabrication processing. 4 undergraduate hours. 4 graduate hours. Prerequisite: PHYS 212.",
         "instructors": [
             "Chen, P",
@@ -27026,7 +27026,7 @@
     },
     {
         "title": "ME 540",
-        "name": "Control System Theory &amp; Design",
+        "name": "Control System Theory & Design",
         "description": "Same as ECE 515. See ECE 515.",
         "instructors": [
             "Dong, R",
@@ -29187,7 +29187,7 @@
     },
     {
         "title": "MUS 528",
-        "name": "Res &amp; Bibliography in Music",
+        "name": "Res & Bibliography in Music",
         "description": "Introduction to basic research skills appropriate to graduate study in music. Topics include accessing library resources and online databases; citation formats and plagiarism issues; critical reading and writing; and critical editions of music. For DMA students additional topics include skills for planning and writing a large research paper; study strategies and resources; and professional skills. All DMA students will complete a draft of their proposal for a final DMA project by the conclusion of this class. Required of all incoming graduate students in the MM (2 hours of credit), except those majoring in musicology, and in the DMA (4 hours of credit). Prerequisite: If required, all remedial coursework in ESL and/or music history must be satisfied prior to enrollment.",
         "instructors": [
             "Magee, G",
@@ -29641,7 +29641,7 @@
     },
     {
         "title": "MUSE 500",
-        "name": "Core Prob Museum Theory &amp; Prac",
+        "name": "Core Prob Museum Theory & Prac",
         "description": "A critical examination of both historical and current theoretical issues in museum practice. Addresses the development of museums within varied social, cultural and intellectual contexts, and the conceptualizations and criticisms of museums in terms of paradigmatic, institutional, symbolic and other theories. In addition to surveying the broad range of theoretical frameworks adopted in contemporary museum scholarship, students will examine and evaluate curatorial and institutional strategies for responding to the myriad external pressure (including multiple constituencies, standards and best practices) currently placed on museums. Prerequisite: Graduate standing.",
         "instructors": [
             "Frankenberg, S"
@@ -29668,7 +29668,7 @@
     },
     {
         "title": "NEUR 417",
-        "name": "Neuroscience of Eating &amp; Drinking",
+        "name": "Neuroscience of Eating & Drinking",
         "description": "Same as FSHN 417 and PSYC 417. See PSYC 417.",
         "instructors": [
             "Liang, N",
@@ -29701,7 +29701,7 @@
     },
     {
         "title": "NEUR 461",
-        "name": "Cell &amp; Molecular Neuroscience",
+        "name": "Cell & Molecular Neuroscience",
         "description": "Same as MCB 461. See MCB 461.",
         "instructors": [
             "Chung, H",
@@ -29867,7 +29867,7 @@
     },
     {
         "title": "NPRE 448",
-        "name": "Nuclear Syst Engrg &amp; Design",
+        "name": "Nuclear Syst Engrg & Design",
         "description": "Engineering principles underling nuclear systems designed with emphasis on nuclear power reactors. Materials for nuclear systems. Energy generation and removal in single- and two-phase flows. Reactor and component control systems and nuclear fuel reloading patterns. 4 undergraduate hours. 4 graduate hours. Prerequisite: MATH 285, ME 200, and NPRE 455.",
         "instructors": [
             "Brooks, C"
@@ -29899,7 +29899,7 @@
     },
     {
         "title": "NPRE 481",
-        "name": "Writing on Technol &amp; Security",
+        "name": "Writing on Technol & Security",
         "description": "Development of writing skills in standard computer, desktop publishing, and electronic publishing formats. On themes such as, global and regional security environments, arms control, nuclear energy, and climate change. For graduate credit, writing projects include documentation of computational work using software appropriate for typesetting of mathematical formulas. Same as GLBL 481. 3 undergraduate hours. 3 or 4 graduate hours. 4 graduate hours with consent of instructor.",
         "instructors": [
             "Roy, W"
@@ -29957,7 +29957,7 @@
     },
     {
         "title": "NPRE 596",
-        "name": "Seminar in Nuclear Sci &amp; Engrg",
+        "name": "Seminar in Nuclear Sci & Engrg",
         "description": "Lectures and discussions on current work in research and development in nuclear engineering and related fields by staff, advanced students, and visiting lecturers. Approved for S/U grading only. May be repeated.",
         "instructors": [
             "Uddin, R"
@@ -30197,7 +30197,7 @@
     },
     {
         "title": "NRES 424",
-        "name": "US Environ, Justic &amp; Policy",
+        "name": "US Environ, Justic & Policy",
         "description": "In the course students will: (a) write about the roles that race, class, and other social differences play in shaping human-environment relationships, (b) understand the role of the Environmental Protection Agency in considering environmental justice in policy, and (3) identify ways that policies for ecological sustainability can be configured to improve the equity of environmental and natural resource decision-making. 4 undergraduate hours. 4 graduate hours. Prerequisite: Junior class standing.",
         "instructors": [
             "Johnson, M"
@@ -30573,7 +30573,7 @@
     },
     {
         "title": "PATH 433",
-        "name": "Virology &amp; Viral Pathogenesis",
+        "name": "Virology & Viral Pathogenesis",
         "description": "Emphasizes basic principles of virus structure and replication, virus-cell interactions and virus-host interactions that underlie the molecular biology, pathogenesis, and transmission of viral disease. Same as MCB 433. 3 undergraduate hours. 3 graduate hours. Prerequisite: MCB 300 or MCB 354, or consent of instructor.",
         "instructors": [
             "Rock, D"
@@ -30932,7 +30932,7 @@
     },
     {
         "title": "PHIL 108",
-        "name": "Religion &amp; Society in West I",
+        "name": "Religion & Society in West I",
         "description": "Same as ANTH 108, JS 108, and REL 108. See REL 108.",
         "instructors": [
             "Rosenstock, B"
@@ -31018,7 +31018,7 @@
     },
     {
         "title": "PHIL 307",
-        "name": "Elmnts Semantics &amp; Pragmatics",
+        "name": "Elmnts Semantics & Pragmatics",
         "description": "Same as LING 307. See LING 307.",
         "instructors": [
             "Norman, C",
@@ -31215,7 +31215,7 @@
     },
     {
         "title": "PHYS 101",
-        "name": "College Physics: Mech &amp; Heat",
+        "name": "College Physics: Mech & Heat",
         "description": "Newton's Laws, work and energy, rotational motion, fluids, thermodynamics, and waves. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine. Credit is not given for both PHYS 101 and either PHYS 211 or PHYS 213. Prerequisite: Trigonometry.",
         "instructors": [
             "Willenbrock, S",
@@ -31240,7 +31240,7 @@
     },
     {
         "title": "PHYS 102",
-        "name": "College Physics: E&amp;M &amp; Modern",
+        "name": "College Physics: E&M & Modern",
         "description": "Electric forces and fields, electric potential, electric circuits, magnetic forces and fields, geometrical optics, relativity,  and modern physics. A noncalculus-based approach for majors in the life sciences, preprofessional health programs, agriculture, and veterinary medicine. Credit is not given for both PHYS 102 and either PHYS 212 or PHYS 214. Prerequisite: PHYS 101.",
         "instructors": [
             "Schulte, E",
@@ -31311,7 +31311,7 @@
     },
     {
         "title": "PHYS 212",
-        "name": "University Physics: Elec &amp; Mag",
+        "name": "University Physics: Elec & Mag",
         "description": "Coulomb's Law, electric fields, Gauss' Law, electric potential, capacitance, circuits, magnetic forces and fields, Ampere's law, induction, electromagnetic waves, polarization, and geometrical optics. A calculus-based approach for majors in engineering, mathematics, physics, and chemistry. Credit is not given for both PHYS 212 and PHYS 102. Prerequisite: PHYS 211; credit or concurrent registration in MATH 241.",
         "instructors": [
             "Stelzer, T",
@@ -31436,7 +31436,7 @@
     },
     {
         "title": "PHYS 222",
-        "name": "Enrichment E &amp; M",
+        "name": "Enrichment E & M",
         "description": "Supplement to PHYS 212 with a collaborative group learning approach to improving conceptual understanding and problem solving in introductory calculus-based electricity & magnetism. Prerequisite: PHYS 100; concurrent registration in PHYS 212.",
         "instructors": [
             "Zhang, S"
@@ -31444,7 +31444,7 @@
     },
     {
         "title": "PHYS 225",
-        "name": "Relativity &amp; Math Applications",
+        "name": "Relativity & Math Applications",
         "description": "Theory of Special Relativity, with applications to kinematics and dynamics. Key mathematical methods as they apply to aspects of electromagnetic theory and classical mechanics, including vector analysis, series expansions, matrices, Fourier analysis, partial differentiation, three-dimensional calculus, and simple differential equations. Prerequisite: Credit or concurrent registration in PHYS 212.",
         "instructors": [
             "Hooberman, B",
@@ -31546,7 +31546,7 @@
     },
     {
         "title": "PHYS 427",
-        "name": "Thermal &amp; Statistical Physics",
+        "name": "Thermal & Statistical Physics",
         "description": "Equilibrium thermodynamics, statistical mechanics, and kinetic theory of gases. A unified treatment is used in that the principles of heat and thermodynamics are discussed along with statistical postulates and the microscopic approach of introductory quantum mechanics. 4 undergraduate hours. 4 graduate hours. Credit is not given for both PHYS 427 and any of ME 404, CHEM 444, MSE 500. Prerequisite: PHYS 213, PHYS 214, and PHYS 325.",
         "instructors": [
             "Draper, P",
@@ -31596,7 +31596,7 @@
     },
     {
         "title": "PHYS 485",
-        "name": "Atomic Phys &amp; Quantum Theory",
+        "name": "Atomic Phys & Quantum Theory",
         "description": "Basic concepts of quantum theory which underlie modern theories of the properties of materials; elements of atomic and nuclear theory; kinetic theory and statistical mechanics; quantum theory and simple applications; atomic spectra and atomic structure; molecular structure and chemical binding. 3 undergraduate hours. 3 graduate hours. Credit is not given for both PHYS 485 and CHEM 442. Prerequisite: MATH 285 and PHYS 214.",
         "instructors": [
             "Madhavan, V"
@@ -31690,7 +31690,7 @@
     },
     {
         "title": "PHYS 565",
-        "name": "Theory of Semicond &amp; Devices",
+        "name": "Theory of Semicond & Devices",
         "description": "Same as ECE 535. See ECE 535.",
         "instructors": [
             "Leburton, J"
@@ -31768,7 +31768,7 @@
     },
     {
         "title": "PLPA 405",
-        "name": "Plant Disease Diagnosis &amp; Mgmt",
+        "name": "Plant Disease Diagnosis & Mgmt",
         "description": "Field and laboratory techniques in plant disease diagnosis and appraisal; identification of diseases of small grains, turf, corn, soybeans, forage crops, vegetables, fruit, forest and shade trees, and ornamentals, both on field trips and in laboratory exercises. Includes fundamentals of disease management. 3 undergraduate hours. 3 graduate hours. Prerequisite: PLPA 204 or equivalent.",
         "instructors": [
             "Babadoost, M"
@@ -31910,7 +31910,7 @@
     },
     {
         "title": "PORT 595",
-        "name": "Special Topics Port &amp; Braz Lit",
+        "name": "Special Topics Port & Braz Lit",
         "description": "Independent study/research under the direction of a faculty member. May or may not fulfill requirements for a particular degree program in Spanish, Italian and Portuguese. Consult graduate advisor. May be repeated in same or subsequent terms to a maximum of 8 hours.",
         "instructors": [
             "",
@@ -31943,7 +31943,7 @@
     },
     {
         "title": "PS 101",
-        "name": "Intro to US Gov &amp; Pol",
+        "name": "Intro to US Gov & Pol",
         "description": "Examines the organization and development of national, state, and local governments in the U.S.; the federal system; the U.S. Constitutions; civil and political rights; the party system; and the nature, structure, powers, and procedures of national political institutions. This course may require limited participating as a subject in research.",
         "instructors": [
             "Perez, E",
@@ -31970,7 +31970,7 @@
     },
     {
         "title": "PS 201",
-        "name": "US Racial &amp; Ethnic Politics",
+        "name": "US Racial & Ethnic Politics",
         "description": "Examines efforts by racial and ethnic communities to organize politically and by society to allocate resources based on race or ethnicity. Topical focus includes African Americans, Latinos, Asian Americans, Native Americans, and white ethnics. The primary goal of the course is to develop a more comprehensive understanding of racial and ethnic politics by identifying commonalities and differences among these groups and their relationship to the state. Same as AAS 201, AFRO 201, and LLS 201.",
         "instructors": [
             "Khan, A",
@@ -31990,7 +31990,7 @@
     },
     {
         "title": "PS 225",
-        "name": "Environmental Politics &amp; Policy",
+        "name": "Environmental Politics & Policy",
         "description": "Examinations of the political, economic, ecological, and cultural trade-offs between the use and the preservation of the environment, with particular emphasis on the preservation of land and water resources in national parks, forests, and other reserved lands. Same as RST 225.",
         "instructors": [
             "Pahre, R"
@@ -32163,7 +32163,7 @@
     },
     {
         "title": "PS 348",
-        "name": "Gov &amp; Pol in Western Europe",
+        "name": "Gov & Pol in Western Europe",
         "description": "Examines the major governmental systems of continental Europe; the evolution, structure, and functioning of the political institutions of France, Germany, Italy, Spain, Switzerland, and the Scandinavian countries. Prerequisite: PS 240 or PS 241, six hours of Political Science credit, or consent of instructor.",
         "instructors": [
             "Kourtikakis, K"
@@ -32388,7 +32388,7 @@
     },
     {
         "title": "PSM 520",
-        "name": "Special Topics-Sci &amp; Business",
+        "name": "Special Topics-Sci & Business",
         "description": "Special, emerging, or advanced topics in science and business. Topics will vary by offering. May be used to pilot course offerings before adding them to the PSM curriculum. Open to Illinois Professional Science Master's (PSM) students only. Approved for letter and S/U grading. May be repeated in the same term up to 6 hours or separate terms up to 9 hours; this is contingent on program approval and other requirements.",
         "instructors": [
             "Bosecker, N"
@@ -32517,7 +32517,7 @@
     },
     {
         "title": "PSYC 230",
-        "name": "Perception &amp; Sensory Processes",
+        "name": "Perception & Sensory Processes",
         "description": "Survey of the experimental psychology of sensory and perceptual processes and behavior; emphasis on the contribution of behavior science to understanding subjective experience of the physical and social environment.",
         "instructors": [
             "Lleras Buetti, S",
@@ -32607,7 +32607,7 @@
     },
     {
         "title": "PSYC 312",
-        "name": "Psychology of Race &amp; Ethnicity",
+        "name": "Psychology of Race & Ethnicity",
         "description": "Exploration of the theoretical, empirical, and experiential writings concerning the issues of race and ethnicity as they relate to human behavior from the perspective of the individual in various social contexts. Same as AFRO 312. Prerequisite: PSYC 100.",
         "instructors": [
             "Gold, A",
@@ -32741,7 +32741,7 @@
     },
     {
         "title": "PSYC 417",
-        "name": "Neuroscience of Eating &amp; Drinking",
+        "name": "Neuroscience of Eating & Drinking",
         "description": "Eating and drinking are critical to survival. Despite complex and redundant mechanisms, aberrant ingestive behaviors occur and can result in extreme body weights. This course is designed to critically probe and review the current understanding of neural and behavioral mechanisms of eating and drinking. Students will learn how eating and drinking are closely related to physical and mental health, and how to apply this knowledge to live a healthier life. Same as FSHN 417 and NEUR 417. 3 undergraduate hours. 4 graduate hours. Prerequisite: PSYC 100 or equivalent.",
         "instructors": [
             "Liang, N",
@@ -32840,7 +32840,7 @@
     },
     {
         "title": "PSYC 490",
-        "name": "Measurement &amp; Test Develop Lab",
+        "name": "Measurement & Test Develop Lab",
         "description": "The measurement of human behavior in psychological studies; the construction and use of psychological tests; introduction to tests of intelligence, achievement, personality, and interest; and practice in test construction, administration, and validation. Lectures and laboratory. 4 undergraduate hours. 4 graduate hours. Prerequisite: A knowledge of statistics equivalent to that from PSYC 235.",
         "instructors": [
             "Ginsburg, R"
@@ -32953,7 +32953,7 @@
     },
     {
         "title": "PSYC 546",
-        "name": "Intervention &amp; Assessment",
+        "name": "Intervention & Assessment",
         "description": "This two-semester course sequence covers research and methods of intervention, prevention, and assessment/diagnosis in clinical and community psychology. Includes scholarly readings and didactic discussions, as well as supervision of applied work in which the students engage. Instruction in ethical standards and professional development is provided. Emphasis is given to empirically-supported assessment, intervention, and supervision in clinical and community psychology. 2 to 4 graduate hours. No professional credit. Approved for Letter and S/U grading. May be repeated up to 40 hours in separate semesters. Prerequisite: Credit or concurrent registration in PSYC 538, PSYC 539, PSYC 532, or PSYC 545, or consent of instructor.",
         "instructors": [
             "Cohen, A",
@@ -33272,7 +33272,7 @@
     },
     {
         "title": "REL 108",
-        "name": "Religion &amp; Society in West I",
+        "name": "Religion & Society in West I",
         "description": "Introduction to classic writers and texts in Western religious and social thought from antiquity to the Enlightenment, with emphasis on their social and historical contexts. Same as JS 108, ANTH 108, and PHIL 108.",
         "instructors": [
             "Rosenstock, B"
@@ -33345,7 +33345,7 @@
     },
     {
         "title": "REL 236",
-        "name": "Religion, Violence &amp; America",
+        "name": "Religion, Violence & America",
         "description": "Examination of the interactions among religion, violence, and American culture from the colonial period to the twenty-first century. Using a wide range of primary and secondary texts, students will study the perspectives of the perpetrators and victims of religiously motivated and/or religiously justified violence, both in domestic and international affairs. Same as HIST 290.",
         "instructors": [
             "Ebel, J"
@@ -33371,7 +33371,7 @@
     },
     {
         "title": "REL 347",
-        "name": "Protestant &amp; Catholic Refs",
+        "name": "Protestant & Catholic Refs",
         "description": "Same as HIST 347. See HIST 347.",
         "instructors": [
             "Koslofsky, C"
@@ -33549,7 +33549,7 @@
     },
     {
         "title": "RHET 233",
-        "name": "Adv Rhetoric &amp; Composition",
+        "name": "Adv Rhetoric & Composition",
         "description": "Instruction in developing research-based arguments of moderate complexity within a special topics format. Introduction to the use of multimodal or other non-print resources as evidence in written arguments. Prerequisite: Completion of campus Composition I general education requirement.",
         "instructors": [
             "Ware, R",
@@ -33640,7 +33640,7 @@
     },
     {
         "title": "RST 225",
-        "name": "Environmental Politics &amp; Policy",
+        "name": "Environmental Politics & Policy",
         "description": "Same as PS 225. See PS 225.",
         "instructors": [
             "Pahre, R"
@@ -33730,7 +33730,7 @@
     },
     {
         "title": "RST 370",
-        "name": "Research Methods &amp; Analysis",
+        "name": "Research Methods & Analysis",
         "description": "Educates students in principles of research design, data collection, measurement, methods of statistical analysis, techniques in summarizing data, and the interpretation and application of research findings to the field of Leisure Studies.",
         "instructors": [
             "Berdychevsky Kustanovich, Y"
@@ -33772,7 +33772,7 @@
     },
     {
         "title": "RST 430",
-        "name": "Sport &amp; Development",
+        "name": "Sport & Development",
         "description": "This course will provide an overview of sport development and sport for development, and the linkages and intersections between the two concepts. Sport development is concerned with the creation and management of systems designed to optimize participation in sport, and the movement of athletes both vertically and horizontally through the sport system. Sport for development focuses on the use of sport to potentially achieve social change and development outcomes at the individual, community, and societal levels. Invariably, these concepts are linked, and one cannot exist without the other. Each module will take an integrative approach and examine sport development and sport for development concurrently, with focus on practical applications of all concepts. 3 undergraduate hours. No graduate credit. Prerequisite: RST 130 and RST 354 or consent of instructor.",
         "instructors": [
             "Chung, M"
@@ -33780,7 +33780,7 @@
     },
     {
         "title": "RST 450",
-        "name": "Tourism Planning &amp; Development",
+        "name": "Tourism Planning & Development",
         "description": "Examines tourism planning and development processes from both applied and conceptual perspectives. Emphasis is placed on tourism planning and development strategies that evaluate destination potential and consider travel destination choice behavior. 4 undergraduate hours. 4 graduate hours. Prerequisite: RST 150 or consent of instructor. Not intended for students with Freshman or Sophomore class standing.",
         "instructors": [
             "Huang, Z"
@@ -33824,7 +33824,7 @@
     },
     {
         "title": "RST 501",
-        "name": "Concepts &amp; Applications in Recreation, Sport &amp; Tourism",
+        "name": "Concepts & Applications in Recreation, Sport & Tourism",
         "description": "Basic philosophical, historical, and scientific foundations and developments in leisure and recreation; analyses of the significance of leisure in modern societies; critical review of major writings in the field with attention to particular special problem areas and current issues. Prerequisite: RST 100 or equivalent.",
         "instructors": [
             "Stodolska, M"
@@ -33840,7 +33840,7 @@
     },
     {
         "title": "RST 512",
-        "name": "Managing Recreation, Sport &amp; Tourism Organizations",
+        "name": "Managing Recreation, Sport & Tourism Organizations",
         "description": "Examines theoretical and technical principles of personnel managers in leisure service agencies; recruitment, training, selection, and evaluation of personnel with special emphasis on applied measurement concepts and legislation related to personnel administration in leisure services. Prerequisite: RST 410 or consent of instructor.",
         "instructors": [
             "Huang, Z",
@@ -34044,7 +34044,7 @@
     },
     {
         "title": "SAME 150",
-        "name": "Lang&amp;Culture of Arab World",
+        "name": "Lang&Culture of Arab World",
         "description": "Same as ARAB 150. See ARAB 150.",
         "instructors": [
             "Saadah, E"
@@ -34108,7 +34108,7 @@
     },
     {
         "title": "SBC 511",
-        "name": "Strategic Analytics &amp; Data Visual",
+        "name": "Strategic Analytics & Data Visual",
         "description": "This course will prepare students to utilize data for targeting and building customer and brand relationships, with an emphasis on new and emerging media. The students will get exposure to principles of working with structured data using relational databases and data warehouses. They will understand how to work with unstructured data from the web. They will also get exposure to select data mining methods relevant to data commonly worked on by marketing and communication executives and apply these concepts with cases/exercises during each of these modules. 2 graduate hours. No professional credit. Approved for Letter and S/U grading. Prerequisite: Restricted to MS: SBC student.",
         "instructors": [
             "Sachdev, V"
@@ -34201,7 +34201,7 @@
     },
     {
         "title": "SE 101",
-        "name": "Engineering Graphics &amp; Design",
+        "name": "Engineering Graphics & Design",
         "description": "Computer-aided design (CAD) software modeling of parts and assemblies. Parametric and non-parametric solid, surface, and wireframe models. Part editing and two-dimensional documentation of models. Planar projection theory, including sketching of perspective, isometric, multiview, auxiliary, and section views. Spatial visualization exercises. Dimensioning guidelines, tolerancing techniques. Team design project. Credit is not given for both SE 101 and ME 170.",
         "instructors": [
             "Fu, T",
@@ -34415,7 +34415,7 @@
     },
     {
         "title": "SHS 120",
-        "name": "Child, Comm, &amp; Lang Ability",
+        "name": "Child, Comm, & Lang Ability",
         "description": "Provides an introduction to the study of the human communication and language capacity and includes an overview of three areas of inquiry: language science, language development in children, and language disability in children.",
         "instructors": [
             "Wachtel, J"
@@ -34433,7 +34433,7 @@
     },
     {
         "title": "SHS 170",
-        "name": "Intro Hum Comm Sys &amp; Disorders",
+        "name": "Intro Hum Comm Sys & Disorders",
         "description": "Examines broad perspectives of theories and information regarding normal and abnormal communication: how speech and language develop, how people hear, how they produce speech and what can go wrong; addresses the impact of speech and hearing science on society, culture, and modern technologies.",
         "instructors": [
             "Kirk, K",
@@ -34469,7 +34469,7 @@
     },
     {
         "title": "SHS 222",
-        "name": "Language &amp; Culture of Deaf Communities",
+        "name": "Language & Culture of Deaf Communities",
         "description": "Students will learn about culture and how it is manifested in various subgroups of society with a particular focus on the culture and language of Deaf people in the United States. Themes include: the linguistics of American Sign Language, aspects of social unity for Deaf people, common experiences of Deaf individuals, the educational system and Deaf students, and current issues that affect the Deaf community. For those students requiring 4 semesters of language other than English credit (LAS or BUS), SHS 222 can be used as the fourth course in the American Sign Language sequence that includes SHS 121, 221, and 321 to fulfill that requirement but cannot also then be used for Gen Ed requirements. Same as EPSY 222.",
         "instructors": [
             "Davies Brenier, L"
@@ -34493,7 +34493,7 @@
     },
     {
         "title": "SHS 300",
-        "name": "Anat &amp; Physiol Spch Mechanism",
+        "name": "Anat & Physiol Spch Mechanism",
         "description": "Introduction to the anatomic and physiologic characteristics of the normal speech mechanism. Same as LING 300.",
         "instructors": [
             "Ishikawa, K"
@@ -34526,7 +34526,7 @@
     },
     {
         "title": "SHS 375",
-        "name": "Comm Partners &amp; Health",
+        "name": "Comm Partners & Health",
         "description": "Combines a community-based volunteer experience with class-based readings/discussion to introduce students to the study of communication in context. Students will use learning journals to document their volunteer experiences, describe the characteristics of conversational interactions they observe, and reflect on their own skills as flexible communication partners with people of various backgrounds and abilities and in a variety of clinical and professional settings. Includes a one-hour weekly discussion section (taught by SHS faculty/instructional staff) and three-four hour weekly community volunteer experiences (supervised by volunteer site employees). Same as AHS 375 and KIN 375. May be repeated in separate terms to a maximum of 6 hours.",
         "instructors": [
             "Bishop, D",
@@ -34559,7 +34559,7 @@
     },
     {
         "title": "SHS 450",
-        "name": "Intro Audiol &amp; Hear Disorders",
+        "name": "Intro Audiol & Hear Disorders",
         "description": "Review of the history of audiology as a profession; study of symptoms, causes, and treatment of hearing losses; and principles and application of basic audiometry. 4 undergraduate hours. 4 graduate hours. Prerequisite: Consent of Instructor.",
         "instructors": [
             "Mertes, I"
@@ -34636,7 +34636,7 @@
     },
     {
         "title": "SHS 541",
-        "name": "Clinical Auditory Anat &amp; Phys",
+        "name": "Clinical Auditory Anat & Phys",
         "description": "The objective of the course is for students to gain an understanding of the structure and function of the peripheral and central auditory system from a clinically oriented perspective. Clinically relevant topics on the pathophysiology of the auditory system will be presented. Prerequisite: SHS 240, SHS 450 or equivalent, or consent of instructor.",
         "instructors": [
             "Monson, B"
@@ -34644,7 +34644,7 @@
     },
     {
         "title": "SHS 550",
-        "name": "Assess Audition &amp; Aud Disorder",
+        "name": "Assess Audition & Aud Disorder",
         "description": "Study of technical and clinical aspects of audiological assessment and auditory disorders; critical analysis of clinical and experimental literature; laboratory experience in audiological assessment techniques. Prerequisite: SHS 240, SHS 450, or equivalent, or consent of instructor.",
         "instructors": [
             "Chambers, R"
@@ -34737,7 +34737,7 @@
     },
     {
         "title": "SHS 592",
-        "name": "Prosem Spch &amp; Hear Sci",
+        "name": "Prosem Spch & Hear Sci",
         "description": "Required seminar for all graduate students; involves reporting of ongoing research of faculty, visiting researchers, and students as well as discussion of topics related to professional and academic research careers. Approved for  S/U grading only. May be repeated up to 4 credit hours toward degree requirements as topics vary.",
         "instructors": [
             "Kirk, K",
@@ -34782,7 +34782,7 @@
     },
     {
         "title": "SLAV 117",
-        "name": "Russ &amp; E Euro Science Fiction",
+        "name": "Russ & E Euro Science Fiction",
         "description": "Survey of the science fiction writing of Russia and the countries of Eastern Europe since 1750, with particular emphasis on the post-World War II period. The role of the Science Fiction tradition in the respective national cultures. The influence on Russian and East European Science Fiction of Anglo-American Science Fiction. All readings are in English. Same as CWL 117.",
         "instructors": [
             "Tempest, R"
@@ -34870,7 +34870,7 @@
     },
     {
         "title": "SOC 130",
-        "name": "Intro Gender &amp; Women's Studies",
+        "name": "Intro Gender & Women's Studies",
         "description": "Same as GWS 100 and HDFS 140. See GWS 100.",
         "instructors": [
             "Barnes, T",
@@ -34929,7 +34929,7 @@
     },
     {
         "title": "SOC 201",
-        "name": "Race, Gender &amp; Power",
+        "name": "Race, Gender & Power",
         "description": "Same as GWS 201. See GWS 201.",
         "instructors": [
             "Leon-Boys, D"
@@ -35033,7 +35033,7 @@
     },
     {
         "title": "SOC 321",
-        "name": "Gender &amp; Latina/o Migration",
+        "name": "Gender & Latina/o Migration",
         "description": "Same as LLS 320 and GWS 320. See LLS 320.",
         "instructors": [
             "Cacho, L"
@@ -35041,7 +35041,7 @@
     },
     {
         "title": "SOC 322",
-        "name": "Gender, Relationshps &amp; Society",
+        "name": "Gender, Relationshps & Society",
         "description": "Same as GWS 340 and HDFS 340. See HDFS 340.",
         "instructors": [
             "Routon, J"
@@ -35086,7 +35086,7 @@
     },
     {
         "title": "SOC 392",
-        "name": "Chicanas&amp;Latinas: Self&amp;Society",
+        "name": "Chicanas&Latinas: Self&Society",
         "description": "Same as GWS 392 and LLS 392. See LLS 392.",
         "instructors": [
             "Dowling, J"
@@ -35113,7 +35113,7 @@
     },
     {
         "title": "SOC 472",
-        "name": "Urban Communities &amp; Public Pol",
+        "name": "Urban Communities & Public Pol",
         "description": "Same as AFRO 481 and UP 481. See AFRO 481.",
         "instructors": [
             "Conwill, W"
@@ -35121,7 +35121,7 @@
     },
     {
         "title": "SOC 473",
-        "name": "Immigration, Health &amp; Society",
+        "name": "Immigration, Health & Society",
         "description": "Same as CHLH 473, LLS 473, and SOCW 473. See LLS 473.",
         "instructors": [
             "Viruell-Fuentes, E"
@@ -35272,7 +35272,7 @@
     },
     {
         "title": "SOCW 240",
-        "name": "Death &amp; Dying",
+        "name": "Death & Dying",
         "description": "This course will focus on various aspects of death and dying. Content will examine different types of death, impact of death throughout the lifespan, cultural beliefs and practices regarding death and dying, grief, healing after loss, legal and ethical issues related to death, and the roll of social workers at the end of life. Students will be encouraged to examine their own thoughts, values, feeling, and beliefs about death and dying.",
         "instructors": [
             "Andrade, F"
@@ -35296,7 +35296,7 @@
     },
     {
         "title": "SOCW 300",
-        "name": "Diversity: Identities &amp; Issues",
+        "name": "Diversity: Identities & Issues",
         "description": "This introductory course explores multiple dimensions of diversity in a pluralistic and increasingly globalized society. Using a social work strengths perspective as well as historical, constructivist, and critical conceptual frameworks; the course examines issues of identity, culture, privilege stigma, prejudice, and discrimination. The social construction and implications of race, class, gender, sexual orientation, and other dimensions of difference is examined at individual, interpersonal, and systems levels. Students are expected to use the course material to explore their personal values, biases, family backgrounds, culture, and formative experiences in order to deepen their self-awareness and develop interpersonal skills in bridging differences. Finally, students apply learning from the course to identify characteristics of effective social work and other health and human service provision among people culturally different themselves; and to identify opportunities for change contributing to prejudice reduction and cross-cultural acceptance at home, work and in society.",
         "instructors": [
             "Carter-Black, J",
@@ -35323,7 +35323,7 @@
     },
     {
         "title": "SOCW 321",
-        "name": "Social Entre &amp; Social Change",
+        "name": "Social Entre & Social Change",
         "description": "Intended for undergraduates who have an interest in creating programs and products that have social values for communities. Features social entrepreneurship as an approach to social development and will consider its application and related change strategies to a wide array of social problems. Social entrepreneurship has emerged as a change approach that features the application of entrepreneurial practices to social ventures. Social entrepreneurship is similar to business entrepreneurship in its emphasis on selected program development and management principles and processes, but social entrepreneurs have the primary goal of creating social value in communities rather than personal or shareholder wealth. The initial part of the class will emphasize instructing students in broad concepts and principles related to entrepreneurship, while the latter portion of the course will feature students working on teams to design social projects.",
         "instructors": [
             "Balascuta, I",
@@ -35407,7 +35407,7 @@
     },
     {
         "title": "SOCW 416",
-        "name": "Child Welfare Issues &amp; Trends",
+        "name": "Child Welfare Issues & Trends",
         "description": "This course examines theoretical and programmatic aspects for child welfare practice. Emphasis is placed on the roles and functions of child welfare workers, including engagement, assessment, intervention and permanency planning. 4 undergraduate hours. 4 graduate hours. Prerequisite: SOCW major. For majors only.",
         "instructors": [
             "Lindsey, B"
@@ -35481,7 +35481,7 @@
     },
     {
         "title": "SOCW 470",
-        "name": "Field Practicum &amp; Professional Seminar II",
+        "name": "Field Practicum & Professional Seminar II",
         "description": "This course is a supervised field practice experience and seminar where students apply knowledge and skills in social work engagement, assessment, planning and interventions to individuals, groups, families, organizations, and communities. Students are expected to promote sustainable social change through planned problem solving and empowerment to enhance the well-being of others. The practicum consists of 32 hours/week for 16 weeks. 15 undergraduate hours. No graduate credit. May be repeated; instructor approval required. Prerequisite: SOCW 461. SOCW majors only.",
         "instructors": [
             "Rice, K",
@@ -35491,7 +35491,7 @@
     },
     {
         "title": "SOCW 473",
-        "name": "Immigration, Health &amp; Society",
+        "name": "Immigration, Health & Society",
         "description": "Same as CHLH 473, LLS 473, and SOC 473. See LLS 473.",
         "instructors": [
             "Viruell-Fuentes, E"
@@ -35540,7 +35540,7 @@
     },
     {
         "title": "SOCW 509",
-        "name": "Adv Clin Assess &amp; Interviewing",
+        "name": "Adv Clin Assess & Interviewing",
         "description": "Advanced practice class designed to enhance students' understanding of clinical assessment and interviewing methods. Includes methods for therapeutically intervening with clients who are highly distressed, angry or agitated, resistant or involuntarily mandated for treatment, experiencing severe symptoms, or who have unique and complex problems. Clinical interviewing skills taught in this class will build upon knowledge and skills acquired in previous direct practice classes. Prerequisite: SOCW 400 and SOCW 552.",
         "instructors": [
             "Cherry, M",
@@ -35875,7 +35875,7 @@
     },
     {
         "title": "SPAN 246",
-        "name": "Gender &amp; Sexuality in Latina/o Literature",
+        "name": "Gender & Sexuality in Latina/o Literature",
         "description": "Examination of questions of gender, sexuality, and identity in contemporary Latina/Latino culture through a discussion of novels, performance pieces, essays and films. Spanish majors must complete writing assignments in Spanish. Same as LLS 246.",
         "instructors": [
             "Cervantes, V"
@@ -36411,7 +36411,7 @@
     },
     {
         "title": "STAT 361",
-        "name": "Probability &amp; Statistics for Computer Science",
+        "name": "Probability & Statistics for Computer Science",
         "description": "Same as CS 361. See CS 361.",
         "instructors": [
             "Liu, H",
@@ -36721,7 +36721,7 @@
     },
     {
         "title": "SWAH 407",
-        "name": "Topics Swahili Lang &amp; Lit I",
+        "name": "Topics Swahili Lang & Lit I",
         "description": "Selected readings from modern Kiswahili authors, with a focus on novels, plays, and basic poetry illustrative of East African cultural issues and advanced level Kiswahili grammar, as well as development of expository writing skills. Same as AFST 405. 3 undergraduate hours. 3 graduate hours. Prerequisite: SWAH 406.",
         "instructors": [
             "Gathogo, M",
@@ -36730,7 +36730,7 @@
     },
     {
         "title": "SWAH 409",
-        "name": "Adv Topics Swahili Lang&amp;Lit I",
+        "name": "Adv Topics Swahili Lang&Lit I",
         "description": "Introduction to Kiswahili in the professions as documented in selected newspapers, educational radio and TV programs, works of fiction, biographies, anthologies, and professional journals. Students will be introduced to argumentative writing in Kiswahili, expected to make oral presentations, and to write a research paper in their field. Same as AFST 407. 3 undergraduate hours. 4 graduate hours. Prerequisite: SWAH 408.",
         "instructors": [
             "Gathogo, M",
@@ -36755,7 +36755,7 @@
     },
     {
         "title": "TAM 201",
-        "name": "Mechanics for Technol &amp; Mgmt",
+        "name": "Mechanics for Technol & Mgmt",
         "description": "Engineering mechanics (statics, dynamics, solid mechanics, and fluid mechanics) and the role that mechanics plays in engineering analysis and design. For Technology and Management majors only.",
         "instructors": [
             "Chang, W",
@@ -37185,7 +37185,7 @@
     },
     {
         "title": "TE 565",
-        "name": "Technol Innovation &amp; Strategy",
+        "name": "Technol Innovation & Strategy",
         "description": "Concepts and frameworks for analyzing how firms can create, commercialize and capture value from technology-based products and services. Business, commercialization, and management aspects of technology. Emphasis on reasons that existing firms or startups which have successfully commercialized products or services fail to sustain their success as technology changes and evolves. 2 graduate hours. No professional credit. Prerequisite: STAT 400.",
         "instructors": [
             "Chopra, S",
@@ -37649,7 +37649,7 @@
     },
     {
         "title": "THEA 424",
-        "name": "Electric Motors &amp; Fluid Power",
+        "name": "Electric Motors & Fluid Power",
         "description": "The addition of automation into the entertainment industry was a major turning point in the capabilities of live theater. This course begins the study of dynamics and the equipment commonly used to move scenery onstage. We will be covering the vocabulary, the mathematical equations, and information about electric motors, pneumatic & hydraulic components and other equipment used in theatrical mechanical design. The knowledge learned will build the foundation for students to identify and select the appropriate equipment to use and to communicate automated movement concepts to the artistic personalities involved in a theatrical production. 3 undergraduate hours. 3 graduate hours. Prerequisite: THEA 430. Enrollment limited to Theatre majors or by consent of instructor.",
         "instructors": [
             "Lin, E",
@@ -37905,7 +37905,7 @@
     },
     {
         "title": "THEA 550",
-        "name": "Colloquium Design &amp; Theat Tech",
+        "name": "Colloquium Design & Theat Tech",
         "description": "Projects in design for the theatre or in theatre technology, including stage scenery, costuming, lighting, makeup, projections, and sound and stage systems. May be repeated to a maximum of 32 hours. Prerequisite: Enrollment limited to graduate students in theatre design and technology.",
         "instructors": [
             "Diaz-Soto, J",
@@ -38065,7 +38065,7 @@
     },
     {
         "title": "TRST 403",
-        "name": "German-English Translation: Theory &amp; Practice",
+        "name": "German-English Translation: Theory & Practice",
         "description": "Same as GER 403. See GER 403.",
         "instructors": [
             "Jenkins, R"
@@ -38159,7 +38159,7 @@
     },
     {
         "title": "TSM 233",
-        "name": "Metallurgy &amp; Welding Process",
+        "name": "Metallurgy & Welding Process",
         "description": "Selecting and using metal-arc, inert-gas, submerged arc, oxyacetylene welding and plasma cutting processes for construction and maintenance. Includes laboratory. Additional fees may apply. See Class Schedule.",
         "instructors": [
             "Johnson, T",
@@ -38201,7 +38201,7 @@
     },
     {
         "title": "TSM 372",
-        "name": "Environ Control &amp; HVAC Systems",
+        "name": "Environ Control & HVAC Systems",
         "description": "Introduction to heating, ventilating, and air-conditioning (HVAC) systems for building environment control. Topics include: psychrometrics, basic calculation of heating and cooling loads, human comfort and ventilation requirements, typical HVAC and control systems.",
         "instructors": [
             "Green-Miller, A"
@@ -38384,7 +38384,7 @@
     },
     {
         "title": "UP 203",
-        "name": "Cities: Planning &amp; Urban Life",
+        "name": "Cities: Planning & Urban Life",
         "description": "Provides a broad introduction to social science theories and analysis methods to examine how people, communities, and governments plan a city. Draws upon theories and methods of several social science disciplines including economics, geography, political science, anthropology and sociology. Includes hands-on application of fundamental analysis techniques. Credit is not given for both UP 203 and UP 204. Prerequisite: UP 101.",
         "instructors": [
             "Barajas, J"
@@ -38523,7 +38523,7 @@
     },
     {
         "title": "UP 473",
-        "name": "Housing &amp; Urban Policy",
+        "name": "Housing & Urban Policy",
         "description": "The role of housing in American social policy planning: the history of public and private intervention in housing, regulation of supply and demand within housing markets and market imperfections; analysis of public policies for housing as they affect special populations (for example, the poor, the elderly, the disabled, homeless, and minorities). 4 undergraduate hours. 4 graduate hours.",
         "instructors": [
             "Greenlee, A"
@@ -38547,7 +38547,7 @@
     },
     {
         "title": "UP 481",
-        "name": "Urban Communities &amp; Public Pol",
+        "name": "Urban Communities & Public Pol",
         "description": "Same as AFRO 481 and SOC 472. See AFRO 481.",
         "instructors": [
             "Conwill, W"
@@ -38600,7 +38600,7 @@
     },
     {
         "title": "UP 513",
-        "name": "Urban Skills &amp; Applications II: Chicago Practicum",
+        "name": "Urban Skills & Applications II: Chicago Practicum",
         "description": "Application of skills and concepts learned in UP 512. Students undertake a field project in close collaboration with a faculty advisor. Students work in teams on the selected project, and weekly meetings explore urban issues and fieldwork challenges. 4 graduate hours. No professional credit. Prerequisite: UP 512. For graduate students in the Sustainable Urban Management degree program.",
         "instructors": [
             "Allred, D"
