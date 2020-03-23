@@ -1,11 +1,21 @@
 import React, { useState, useEffect, useCallback } from "react";
-import { Button } from "antd";
+import { Button, Rate } from "antd";
+import { FrownOutlined } from "@ant-design/icons";
 
 import ReviewCard from "./components/ReviewCard";
 import ReviewForm from "./components/ReviewForm";
 
 import { getCourseByTitle } from "./utils/api";
 import courseJSON from "./data/courses.json";
+
+const rateDescription = ["Terrible", "Bad", "Decent", "Good", "Wonderful"];
+const difficultyDescription = [
+  "Super Easy",
+  "Easy",
+  "Moderate",
+  "Hard",
+  "Super Hard"
+];
 
 const Course = props => {
   const [title] = useState(props.match.params.name.replace(/([0-9])/, " $1"));
@@ -21,8 +31,8 @@ const Course = props => {
   const fetchRatingReviews = useCallback(async () => {
     const c = await getCourseByTitle(props.match.params.name);
     if (c) {
-      setRating(c.result.rating);
-      setDifficulty(c.result.difficulty);
+      setRating(c.result.rating / c.result.reviews.length);
+      setDifficulty(c.result.difficulty / c.result.reviews.length);
       setReviews(c.result.reviews);
     }
   }, [props.match.params.name]);
@@ -53,8 +63,16 @@ const Course = props => {
       </header>
       <p>{title}</p>
       <p className="description">{description}</p>
-      <p>Rating: {rating}</p>
-      <p>Difficulty: {difficulty}</p>
+      Rating: <Rate disabled value={rating} tooltips={rateDescription} />
+      <br />
+      Difficulty:
+      <Rate
+        disabled
+        value={difficulty}
+        character={<FrownOutlined />}
+        tooltips={difficultyDescription}
+        className="difficultyDisplay"
+      />
       {reviews && reviews.map(r => <ReviewCard review={r} />)}
       <Button
         type="primary"
