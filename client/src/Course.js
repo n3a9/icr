@@ -1,11 +1,23 @@
 import React, { useState, useEffect, useCallback } from "react";
-import { Button } from "antd";
+import { Button, Rate } from "antd";
+import { FrownOutlined } from "@ant-design/icons";
 
+import Search from "./components/Search";
 import ReviewCard from "./components/ReviewCard";
 import ReviewForm from "./components/ReviewForm";
 
+import "./css/Course.css";
 import { getCourseByTitle } from "./utils/api";
 import courseJSON from "./data/courses.json";
+
+const rateDescription = ["Terrible", "Bad", "Decent", "Good", "Wonderful"];
+const difficultyDescription = [
+  "Super Easy",
+  "Easy",
+  "Moderate",
+  "Hard",
+  "Super Hard"
+];
 
 const Course = props => {
   const [title] = useState(props.match.params.name.replace(/([0-9])/, " $1"));
@@ -21,8 +33,8 @@ const Course = props => {
   const fetchRatingReviews = useCallback(async () => {
     const c = await getCourseByTitle(props.match.params.name);
     if (c) {
-      setRating(c.result.rating);
-      setDifficulty(c.result.difficulty);
+      setRating(c.result.rating / c.result.reviews.length);
+      setDifficulty(c.result.difficulty / c.result.reviews.length);
       setReviews(c.result.reviews);
     }
   }, [props.match.params.name]);
@@ -49,21 +61,41 @@ const Course = props => {
   return (
     <>
       <header className="header">
+        <Search />
         <h4>{name}</h4>
       </header>
       <p>{title}</p>
       <p className="description">{description}</p>
-      <p>Rating: {rating}</p>
-      <p>Difficulty: {difficulty}</p>
-      {reviews && reviews.map(r => <ReviewCard review={r} />)}
+      <div className="courseInfo">
+        <div className="courseInfoItem">
+          <h4>Rating</h4>
+          <Rate disabled value={rating} tooltips={rateDescription} />
+        </div>
+        <div className="courseInfoItem">
+          <h4>Difficulty</h4>
+          <Rate
+            disabled
+            value={difficulty}
+            character={<FrownOutlined />}
+            tooltips={difficultyDescription}
+            className="difficultyDisplay"
+          />
+        </div>
+      </div>
+
       <Button
         type="primary"
         onClick={() => {
           setModalVisible(true);
         }}
+        className="reviewButton"
       >
         Add a review
       </Button>
+
+      <h2>Reviews</h2>
+      {reviews && reviews.map(r => <ReviewCard review={r} />)}
+
       <ReviewForm
         visible={modalVisible}
         title={props.match.params.name}

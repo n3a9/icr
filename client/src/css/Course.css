@@ -1,10 +1,5 @@
-.reviewCard {
-  width: 500px;
-  margin: 2em auto;
-}
-
-.difficultyDisplay {
-  color: #cf1500;
+.header h4 {
+  padding-top: 1em;
 }
 
 .courseInfo {
@@ -19,4 +14,8 @@
 
 .courseInfoItem {
   padding: 1em;
+}
+
+.reviewButton {
+  margin-bottom: 2em;
 }
