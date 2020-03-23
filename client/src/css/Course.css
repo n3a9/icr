@@ -1,3 +1,7 @@
+.header h4 {
+  padding-top: 1em;
+}
+
 .courseInfo {
   display: -webkit-box;
   display: -moz-box;
@@ -10,4 +14,8 @@
 
 .courseInfoItem {
   padding: 1em;
+}
+
+.reviewButton {
+  margin-bottom: 2em;
 }

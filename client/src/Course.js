@@ -2,6 +2,7 @@ import React, { useState, useEffect, useCallback } from "react";
 import { Button, Rate } from "antd";
 import { FrownOutlined } from "@ant-design/icons";
 
+import Search from "./components/Search";
 import ReviewCard from "./components/ReviewCard";
 import ReviewForm from "./components/ReviewForm";
 
@@ -60,6 +61,7 @@ const Course = props => {
   return (
     <>
       <header className="header">
+        <Search />
         <h4>{name}</h4>
       </header>
       <p>{title}</p>
@@ -80,15 +82,20 @@ const Course = props => {
           />
         </div>
       </div>
-      {reviews && reviews.map(r => <ReviewCard review={r} />)}
+
       <Button
         type="primary"
         onClick={() => {
           setModalVisible(true);
         }}
+        className="reviewButton"
       >
         Add a review
       </Button>
+
+      <h2>Reviews</h2>
+      {reviews && reviews.map(r => <ReviewCard review={r} />)}
+
       <ReviewForm
         visible={modalVisible}
         title={props.match.params.name}

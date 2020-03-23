@@ -6,3 +6,17 @@
 .difficultyDisplay {
   color: #cf1500;
 }
+
+.courseInfo {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.courseInfoItem {
+  padding: 1em;
+}
