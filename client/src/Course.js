@@ -5,6 +5,7 @@ import { FrownOutlined } from "@ant-design/icons";
 import ReviewCard from "./components/ReviewCard";
 import ReviewForm from "./components/ReviewForm";
 
+import "./css/Course.css";
 import { getCourseByTitle } from "./utils/api";
 import courseJSON from "./data/courses.json";
 
@@ -63,16 +64,22 @@ const Course = props => {
       </header>
       <p>{title}</p>
       <p className="description">{description}</p>
-      Rating: <Rate disabled value={rating} tooltips={rateDescription} />
-      <br />
-      Difficulty:
-      <Rate
-        disabled
-        value={difficulty}
-        character={<FrownOutlined />}
-        tooltips={difficultyDescription}
-        className="difficultyDisplay"
-      />
+      <div className="courseInfo">
+        <div className="courseInfoItem">
+          <h4>Rating</h4>
+          <Rate disabled value={rating} tooltips={rateDescription} />
+        </div>
+        <div className="courseInfoItem">
+          <h4>Difficulty</h4>
+          <Rate
+            disabled
+            value={difficulty}
+            character={<FrownOutlined />}
+            tooltips={difficultyDescription}
+            className="difficultyDisplay"
+          />
+        </div>
+      </div>
       {reviews && reviews.map(r => <ReviewCard review={r} />)}
       <Button
         type="primary"
