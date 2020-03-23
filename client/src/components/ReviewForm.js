@@ -46,7 +46,6 @@ const ReviewForm = ({ visible, hideModal, title, instructors }) => {
         form
           .validateFields()
           .then(async data => {
-            form.resetFields();
             const reviewAdded = await addReview(title, data.review);
             if (reviewAdded) {
               message.success("Review posted!");
