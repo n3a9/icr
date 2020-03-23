@@ -66,7 +66,6 @@ const ReviewForm = ({ visible, hideModal, title, instructors }) => {
         form={form}
         size={"middle"}
         validateMessages={validateMessages}
-        className="reviewForm"
       >
         <Form.Item
           name={["review", "title"]}
