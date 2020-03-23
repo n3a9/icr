@@ -10,7 +10,7 @@ const layout = {
     span: 6
   },
   wrapperCol: {
-    span: 12
+    span: 16
   }
 };
 
